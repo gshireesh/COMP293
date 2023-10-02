@@ -1,0 +1,581 @@
+University of the Pacific (Pacific: ORG
+UOP: GPE
+Methodist: NORP
+Stockton: GPE
+California: GPE
+San Francisco: GPE
+Sacramento: GPE
+first: ORDINAL
+first: ORDINAL
+California: GPE
+first: ORDINAL
+first: ORDINAL
+the West Coast: LOC
+Pacific: LOC
+July 10, 1851: DATE
+Santa Clara: GPE
+California: GPE
+California Wesleyan College: ORG
+San Jose: GPE
+1871: DATE
+Stockton: GPE
+1923: DATE
+Pacific: LOC
+Pacific: ORG
+John Muir: PERSON
+Pacific: LOC
+Holt-Atherton Special Collections: ORG
+a John Muir Center: PERSON
+John Muir's: PERSON
+Papers: WORK_OF_ART
+Pacific: ORG
+William Knox Holt Memorial Library: PERSON
+Muir's Papers: FAC
+Muir: GPE
+Pacific: LOC
+July 10, 1851: DATE
+Santa Clara: GPE
+California Wesleyan College: ORG
+one month later: DATE
+the University of the Pacific.[9: ORG
+1858: DATE
+first: ORDINAL
+the West Coast: LOC
+the Medical Department of the University of the Pacific: ORG
+University College: ORG
+Cooper Medical College: ORG
+1908: DATE
+Stanford University: ORG
+the Stanford University School of Medicine.[10]
+
+: ORG
+1871: DATE
+San Jose: GPE
+College Park: GPE
+first: ORDINAL
+1878: DATE
+the Conservatory of Music: ORG
+Pacific: ORG
+first: ORDINAL
+Mississippi: GPE
+1896: DATE
+Napa College: ORG
+1911: DATE
+College of the Pacific: ORG
+COP: ORG
+1923: DATE
+the Bay Area: LOC
+first: ORDINAL
+four-year: DATE
+Central: ORG
+1925: DATE
+San Jose: GPE
+Santa Clara College: ORG
+Santa Clara Prep: GPE
+Bellarmine College Preparatory: ORG
+the 1950s: DATE
+the School of Pharmacy: ORG
+1955: DATE
+the Graduate School: ORG
+1956.[13: CARDINAL
+The School of Engineering: ORG
+1957: DATE
+1961: DATE
+University of the Pacific: ORG
+1962: DATE
+Pacific: LOC
+the San Francisco College of Physicians and Surgeons: ORG
+1896: DATE
+San Francisco: GPE
+1966: DATE
+the McGeorge School of Law: ORG
+1924: DATE
+the late 1960s: DATE
+Pacific: ORG
+the United Methodist Church: ORG
+the 1960s: DATE
+three: CARDINAL
+British: NORP
+Oxford: ORG
+Cambridge: GPE
+Raymond College: ORG
+1962: DATE
+Elbert Covell College: ORG
+1963: DATE
+inter-American: NORP
+half: CARDINAL
+U.S.: GPE
+half: CARDINAL
+Latin America: LOC
+Spanish: LANGUAGE
+Callison College: ORG
+1967: DATE
+a year: DATE
+Asia: LOC
+1982: DATE
+2013: DATE
+$125 million: MONEY
+Robert: PERSON
+Jeanette Powell: PERSON
+Pacific: ORG
+334: MONEY
+Pacific: ORG
+the Order of Pacific: ORG
+fall 2018: DATE
+the third consecutive year: DATE
+Pamela Eibeck: PERSON
+May 2019: DATE
+fall 2020: DATE
+four: CARDINAL
+the Gladys L. Benerd School of Education: ORG
+University College: ORG
+Benerd College: ORG
+Stockton Campus
+
+: PERSON
+Burns Tower: PERSON
+Stockton: PERSON
+The Stockton Campus: PERSON
+numerous[21: PERSON
+Hollywood: GPE
+East Coast Ivy League: LOC
+the Lost Ark: FAC
+The Sure Thing: ORG
+Dreamscape: ORG
+Disney: ORG
+1973: DATE
+The World's Greatest Athlete: WORK_OF_ART
+Pacific: LOC
+The Stockton Campus: PERSON
+three: CARDINAL
+Grace Covell Hall: PERSON
+Southwest Hall: FAC
+22/23 school year: DATE
+the Quad Buildings: ORG
+The Quads: GPE
+Grace Covell: PERSON
+more than 350: CARDINAL
+the University Townhouses: ORG
+McCaffrey Center Apartments: ORG
+three: CARDINAL
+Monagan Hall: PERSON
+Chan Family Hall: PERSON
+Calaveras Hall: FAC
+Calaveras: ORG
+2008: DATE
+Don: PERSON
+Karen DeRosa University Center: ORG
+DUC: ORG
+$38 million: MONEY
+DUC: ORG
+the McCaffrey Center: ORG
+$20 million: MONEY
+Biological Sciences Center: ORG
+2008: DATE
+Energy and Environmental Design: ORG
+John T. Chambers Technology Center: PERSON
+the university's School of Engineering[24] and Computer Science: ORG
+2010: DATE
+Calaveras Hall: ORG
+2018.[25: CARDINAL
+2019: DATE
+Morris Chapel: PERSON
+Sacramento Campus
+Pacific's: ORG
+13-acre: QUANTITY
+Sacramento Campus: ORG
+Oak Park: GPE
+24: CARDINAL
+four: CARDINAL
+the McGeorge School of Law: ORG
+the American Bar Association: ORG
+Sacramento County: GPE
+2015: DATE
+Pacific: ORG
+Sacramento Campus: ORG
+the School of Health Sciences: ORG
+McGeorge: PERSON
+University of the Pacific Arthur A. Dugoni School of Dentistry
+Pacific's: ORG
+San Francisco Campus: FAC
+San Francisco's: GPE
+the Dugoni School of Dentistry: ORG
+The San Francisco Campus: ORG
+M.O.V.E.: PERSON
+Valley: LOC
+the Farm to Fork Program: ORG
+2009: DATE
+the Residence for Earth and Environmental Living and Learning: ORG
+the Students for Environmental Action: ORG
+the Department of Earth and Environmental Sciences: ORG
+the Sierra Club's: ORG
+Cool Schools: PERSON
+LEED: GPE
+Don: PERSON
+Karen DeRosa University Center: ORG
+the John T. Chambers Technology Center: ORG
+Stockton: GPE
+Sacramento: GPE
+2019: DATE
+Pacific: LOC
+eighth: ORDINAL
+the Association for Advancement of Sustainability in Higher Education: ORG
+2021: DATE
+2022: DATE
+Pacific: LOC
+10: CARDINAL
+Pacific: LOC
+eight: CARDINAL
+Stockton: PERSON
+30%: PERCENT
+April 2022: DATE
+16: CARDINAL
+Undergraduate: ORG
+Fall 2022: DATE
+Asian: NORP
+37%: PERCENT
+Hispanic: NORP
+23%: PERCENT
+21%: PERCENT
+7%: PERCENT
+7%: PERCENT
+4%: PERCENT
+Pacific Islander: LOC
+1%: PERCENT
+36%: PERCENT
+64%: PERCENT
+2022: DATE
+the Stockton Campus: ORG
+4,594: CARDINAL
+3,278: CARDINAL
+747: PRODUCT
+569: CARDINAL
+first: ORDINAL
+The San Francisco Campus: ORG
+694: CARDINAL
+16: CARDINAL
+180: CARDINAL
+498: CARDINAL
+first: ORDINAL
+the Sacramento Campus: ORG
+989: CARDINAL
+478: CARDINAL
+511: CARDINAL
+first: ORDINAL
+Academics
+Pacific: PRODUCT
+College and University Commission: ORG
+more than 80: CARDINAL
+12: CARDINAL
+more than 30: CARDINAL
+10: CARDINAL
+10: CARDINAL
+Arthur A. Dugoni School of Dentistry: ORG
+San Francisco: GPE
+Benerd College: ORG
+Stockton: GPE
+Sacramento: GPE
+San Francisco: GPE
+Stockton
+Conservatory of Music: ORG
+first: ORDINAL
+the west coast: LOC
+Stockton
+Eberhardt School of Business:: ORG
+41: CARDINAL
+The Graduate School:: ORG
+Stockton: GPE
+Sacramento: GPE
+San Francisco: GPE
+Thomas J. Long School of Pharmacy: PERSON
+Stockton
+McGeorge School of Law: ORG
+Sacramento: GPE
+School of Engineering and Computer Science:: ORG
+Stockton
+School of Health Sciences: ORG
+Sacramento: GPE
+Admissions: ORG
+First-Time Freshmen: ORG
+2021: DATE
+2020: DATE
+2019: DATE
+2018: DATE
+2017: DATE
+Freshman Applicants: WORK_OF_ART
+10,854: CARDINAL
+14,035: CARDINAL
+13,043: CARDINAL
+13,545: CARDINAL
+13,064: CARDINAL
+8,870: CARDINAL
+8,606: CARDINAL
+9,932: CARDINAL
+8,544: CARDINAL
+8,598: CARDINAL
+8,475: CARDINAL
+5,853
+%: PERCENT
+79: CARDINAL
+70.8: CARDINAL
+65.5: CARDINAL
+64.0: CARDINAL
+65.0: CARDINAL
+66.0: CARDINAL
+753: CARDINAL
+712: CARDINAL
+779: CARDINAL
+954: CARDINAL
+899: CARDINAL
+726: CARDINAL
+GPA: ORG
+3.82: CARDINAL
+3.84: CARDINAL
+3.60: CARDINAL
+3.54: CARDINAL
+3.52: CARDINAL
+SAT Composite: ORG
+1247	1220	1240: DATE
+1230: DATE
+1198: DATE
+1163: DATE
+1600: DATE
+Undergraduate: ORG
+University of the Pacific: ORG
+U.S. News & World: ORG
+fall 2021: DATE
+Pacific: ORG
+10,854: CARDINAL
+8,606: CARDINAL
+79%: PERCENT
+GPA: ORG
+3.82: CARDINAL
+SAT: ORG
+1247.[3: CARDINAL
+Rankings
+Academic: WORK_OF_ART
+96: CARDINAL
+U.S. News & World: ORG
+133: CARDINAL
+Washington: GPE
+131: CARDINAL
+2023: DATE
+U.S. News & World Report: ORG
+U.S.: GPE
+University of the Pacific No: ORG
+151: CARDINAL
+the "Top National Universities" category.[51] Also: LAW
+2023: DATE
+USN&WR: ORG
+Pacific 56th: LOC
+100: CARDINAL
+2022: DATE
+Wall Street Journal/Times Higher Education College Rankings: ORG
+Pacific 19th: DATE
+Best Universities: WORK_OF_ART
+West: LOC
+2022: DATE
+the Georgetown University Center on Education: ORG
+Workforce: ORG
+Pacific No: LOC
+1: CARDINAL
+U.S.: GPE
+Pell Grant: PERSON
+Main: PRODUCT
+Pacific Tigers: ORG
+Pacific Tigers: ORG
+Pacific Tigers: ORG
+Pacific: LOC
+NCAA: ORG
+1950: DATE
+1952: DATE
+Pacific: LOC
+the California Basketball Association: ORG
+the West Coast Athletic Conference: LOC
+WCAC: ORG
+the West Coast Conference: LOC
+WCAC: ORG
+the Pacific Coast Athletic Association: ORG
+the Big West Conference: LOC
+1969: DATE
+1971: DATE
+Pacific: ORG
+the 1995 season: DATE
+WCC: ORG
+2013: DATE
+2,500: CARDINAL
+Klein: PERSON
+350: CARDINAL
+Bill Simoni: PERSON
+6,150: CARDINAL
+Alex G. Spanos Center: PERSON
+Knoles Field: ORG
+Chris Kjeldsen Pool: PERSON
+Pacific Aquatics Center: ORG
+the Eve Zimmerman Tennis Center: ORG
+the Janssen-Lagorio Gymnasium: ORG
+Performance Center: FAC
+University of the Pacific: ORG
+NCAA Division: ORG
+the Pacific Tigers: ORG
+the West Coast Conference: LOC
+40 years: DATE
+BYU: ORG
+the LDS Church, Pepperdine: ORG
+the Churches of Christ: PRODUCT
+seven: CARDINAL
+Catholic: NORP
+17: CARDINAL
+two: CARDINAL
+24: CARDINAL
+NCAA Tournaments: ORG
+1981–2004: DATE
+Final Fours: ORG
+2: CARDINAL
+AIAW: ORG
+NCAA: ORG
+fall 2019: DATE
+the NCAA Men's: ORG
+Pacific: ORG
+July 1, 2020: DATE
+Christopher Callahan: PERSON
+26th: ORDINAL
+Callahan: PERSON
+the Walter Cronkite School of Journalism and Mass Communication: ORG
+Arizona State University: ORG
+35: CARDINAL
+three: CARDINAL
+NASA: ORG
+José M. Hernández: PERSON
+San Diego Chargers: ORG
+Alex G. Spanos: PERSON
+Fraternities: ORG
+About 10%: PERCENT
+University of the Pacific: ORG
+three: CARDINAL
+three: CARDINAL
+four: CARDINAL
+three: CARDINAL
+four: CARDINAL
+Iota Eta: ORG
+Pi Kappa: LOC
+Kappa Nu: PERSON
+Sigma Chi: PERSON
+Theta Pi: PERSON
+Kappa: PERSON
+Delta Gamma: PERSON
+Delta Epsilon: ORG
+Kappa Alpha Theta: PERSON
+Omega Delta Phi: LOC
+Xi Chi Sigma: PERSON
+Gamma Alpha Omega - Sigma: PERSON
+Delta Chi - Delta: PERSON
+Alpha Chi Sigma: ORG
+Delta Sigma Pi—Business:: ORG
+Kappa Delta Epsilon: ORG
+Delta Eta: ORG
+Kappa Psi: PERSON
+Gamma Nu: PERSON
+Mu Phi Epsilon—Music:: ORG
+Mu Eta: ORG
+Rho Pi Phi: PERSON
+Omega Eta Epsilon: ORG
+Phi Delta Chi: LOC
+Sport Sciences: ORG
+Kappa: PERSON
+Phi Mu Alpha Sinfonia—Music:: PERSON
+Sigma Alpha Iota—Music: Eta: WORK_OF_ART
+Omega: PERSON
+Sigma Gamma Epsilon—Earth Sciences:: WORK_OF_ART
+Eta Upsilon: ORG
+Theta Tau: PERSON
+Lambda: NORP
+Alpha Xi
+Service: PERSON
+Alpha Phi Omega: PRODUCT
+Alpha: GPE
+Section A-2, Region A - Installed: ORG
+58: CARDINAL
+Mortar Board: ORG
+Kappa Phi: PERSON
+Rho Chi
+Tau Beta Pi
+Notable: PERSON
+Main: PRODUCT
+List of University of the Pacific: ORG
+United States: GPE
+Arif Alvi: ORG
+1984: DATE
+Pakistan: GPE
+2018: DATE
+Scott Boras: PERSON
+1977: DATE
+JD 1982: PERSON
+American: NORP
+Dave Brubeck: PERSON
+BM 1942: DATE
+Connie Callahan: ORG
+JD 1974: PERSON
+the U.S. Court of Appeals: ORG
+Pete Carroll: PERSON
+1973: DATE
+NFL: ORG
+Super Bowl: EVENT
+Seattle Seahawks: PERSON
+USC Trojans: NORP
+the New York Jets: ORG
+the New England Patriots: ORG
+Tom Flores: PERSON
+1958: DATE
+Pro Football Hall of Fame: ORG
+NFL: ORG
+Super Bowl: ORG
+Raiders: PRODUCT
+José Hernández: PERSON
+1985: DATE
+NASA: ORG
+Chris Isaak: PERSON
+1981: DATE
+American: NORP
+Nemir Kirdar: PERSON
+1960: DATE
+Investcorp: ORG
+Janet Leigh: PERSON
+1947: DATE
+Bridget Marquardt: PERSON
+MA 2001: DATE
+George Moscone: PERSON
+1953: DATE
+California: GPE
+37th: ORDINAL
+San Francisco: GPE
+Theodore Olson: PERSON
+1962: DATE
+42nd Solicitor General: FAC
+the United States: GPE
+2001–2004: CARDINAL
+Matt de la Peña: PERSON
+1996: DATE
+Newbery Medal: PERSON
+Irene Roberts: PERSON
+2006: DATE
+Oper Berlin: PERSON
+Brad Schumacher: PERSON
+1997: DATE
+2005: DATE
+Olympian: NORP
+1996: DATE
+two: CARDINAL
+2000: CARDINAL
+Robert D. Sharp: PERSON
+BA: ORG
+7th: ORDINAL
+the National Geospatial-Intelligence Agency: ORG
+Alex Spanos: PERSON
+the Los Angeles Chargers: ORG
+Robert M. Widney: PERSON
+1862: DATE
+American: NORP
+one: CARDINAL
+the University of Southern California: ORG
+USC: ORG
