@@ -1,0 +1,6 @@
+FROM ubuntu:latest
+
+RUN apt update
+RUN apt install python3 vim -y
+
+CMD sleep infinity
