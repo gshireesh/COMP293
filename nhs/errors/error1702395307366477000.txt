@@ -1,0 +1,30 @@
+[
+    {
+        "q" : "What should you do if someone is injured?",
+        "i" : "<noinput>",
+        "a" : "Check for safety, call 999 if necessary, and provide basic first aid."
+    },
+    {
+        "q" : "When should you call 999 and start CPR?",
+        "i" : "<noinput>",
+        "a" : "If someone is unconscious and not breathing normally."
+    },
+    {
+        "q" : "How should you treat someone experiencing anaphylactic shock?",
+        "i" : "<noinput>",
+        "a" : "Call 999, check for medication, help with administering it if necessary, and continue to care for the person until help arrives."
+    },
+    {
+        "q" : "What should you do if someone is bleeding heavily?",
+        "i" : "<noinput>",
+        "a" : "Apply pressure to the wound and secure it with a dressing, or, in the case of a severed limb, wrap it and place it in a container of crushed ice."
+    },
+    {
+        "q" : "How should you treat a burn or scald?",
+        "i" : "<noinput>",
+        "a" : "Cool the burn with running water, remove any clothing or jewelry, and cover it with a clean dressing or non-fluffy material."
+    },
+    {
+        "q" : "What should you do in case of a chemical burn?",
+        "i" : "<noinput>",
+        "a" : "Wear protective gloves, rinse the burn with cool running water, and call 999

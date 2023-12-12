@@ -1,0 +1,28 @@
+[
+    {
+        "q" : "If someone is injured, what should you do?",
+        "i" : "If someone has a deep cut and is bleeding heavily",
+        "a" : "You should apply pressure to the wound with a clean pad or dressing, and call 999 for an ambulance."
+    },
+    {
+        "q" : "What should you do if someone is unconscious but breathing?",
+        "i" : "If someone has fainted but is breathing",
+        "a" : "You should place them in the recovery position until help arrives and keep them under observation."
+    },
+    {
+        "q" : "How should you treat a burn or scald?",
+        "i" : "<noinput>",
+        "a" : "You should cool the burn with cool running water for at least 20 minutes, and cover it loosely with cling film or a non-fluffy dressing."
+    },
+    {
+        "q" : "What should you do if someone is choking?",
+        "i" : "If someone is choking on a piece of food",
+        "a" : "If they're conscious and coughing, encourage them to try to cough it out. If coughing doesn't work, start back blows."
+    },
+    {
+        "q" : "How can you help someone who swallowed a poisonous substance?",
+        "i" : "If someone accidentally ingested a harmful chemical",
+        "a" : "You should call 999 for immediate medical help and advice, and stay with the person while waiting for help to arrive."
+    },
+    {
+        "q" : "What signs indicate that someone is

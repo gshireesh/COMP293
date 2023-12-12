@@ -1,0 +1,25 @@
+[
+    {
+        "q": "What should I do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe.",
+        "a": "After ensuring safety, you should dial 999 for an ambulance if necessary and then carry out basic first aid."
+    },
+    {
+        "q": "How should I deal with someone who is unconscious but breathing?",
+        "i": "If someone is unconscious but breathing and has no other injuries that would prevent them from being moved, you should place them in the recovery position until help arrives.",
+        "a": "Make sure to keep them under observation to ensure they continue to breathe normally."
+    },
+    {
+        "q": "What should I do if someone is unconscious and not breathing?",
+        "i": "If someone is unconscious and not breathing, you should call 999 immediately and start cardiopulmonary resuscitation (CPR) straight away.",
+        "a": "Remember to continue performing CPR until medical help arrives."
+    },
+    {
+        "q": "How should I treat someone experiencing anaphylactic shock?",
+        "i": "<noinput>",
+        "a": "If you think someone is experiencing anaphylactic shock, call 999 immediately. Check if they have any medication, such as an adrenaline self-injector, and assist them in administering it. Stay with them until medical help arrives."
+    },
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "<noinput>",
+        "

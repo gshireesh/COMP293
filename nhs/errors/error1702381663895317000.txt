@@ -1,0 +1,69 @@
+1. "What are the common symptoms of a cold sore?"
+{
+    "q": "What are the common symptoms of a cold sore?",
+    "i": "<noinput>",
+    "a": "A cold sore usually starts with a tingling, itching or burning feeling. Over the next 48 hours, small fluid-filled blisters appear, which then burst and crust over into a scab. Cold sores should start to heal within 10 days."
+}
+
+2. "How long are cold sores contagious for?"
+{
+    "q": "How long are cold sores contagious for?",
+    "i": "<noinput>",
+    "a": "Cold sores are contagious from the moment you first feel tingling or other signs of a cold sore coming on to when the cold sore has completely healed."
+}
+
+3. "What can a pharmacist recommend for cold sores?"
+{
+    "q": "What can a pharmacist recommend for cold sores?",
+    "i": "<noinput>",
+    "a": "A pharmacist can recommend creams to ease pain and irritation, antiviral creams to speed up healing time, and cold sore patches to protect the skin while it heals. Some pharmacies also sell electronic devices that treat cold sores with light or lasers, although their effectiveness is not well-studied."
+}
+
+4. "What can I do at home to help with cold sores?"
+{
+    "q": "What can I do at home to help with cold sores?",
+    "i": "<noinput>",
+    "a": "To help with cold sores, you can eat cool, soft foods, wash your hands before and after applying cream, avoid triggers, use sunblock lip balm, take pain relievers, and stay hydrated. However, avoid kissing anyone, especially infants, as it can lead to neonatal herpes."
+}
+
+5. "When should I see a GP for my cold sore?"
+{
+    "q": "When should I see a GP for my cold sore?",
+    "i": "<noinput>",
+    "a": "You should see a GP if your cold sore has not started to heal within 10 days, if you're worried about it or think it might be something else, if it is very large or painful, or if you have additional symptoms like swollen gums and mouth sores or a weakened immune system."
+}
+
+6. "What treatment can a GP provide for cold sores?"
+{
+    "q": "What treatment can a GP provide for cold sores?",
+    "i": "<noinput>",
+    "a": "A GP may prescribe antiviral tablets if your cold sores are very large, painful, or recurring. Newborn babies, pregnant women, and individuals with weakened immune systems may be referred to a hospital for further advice or treatment."
+}
+
+7. "Why do cold sores come back?"
+{
+    "q": "Why do cold sores come back?",
+    "i": "<noinput>",
+    "a": "Cold sores are caused by the herpes simplex virus, which stays in your skin for life. Close skin-to-skin contact, like kissing, can lead to exposure to the virus. It may remain dormant and not cause symptoms until later in life when a cold sore appears."
+}
+
+8. "Can cold sores be triggered by certain factors?"
+{
+    "q": "Can cold sores be triggered by certain factors?",
+    "i": "<noinput>",
+    "a": "Yes, some people find that certain things can trigger a cold sore outbreak, such as other illnesses, exposure to sunlight, or menstrual periods."
+}
+
+9. "Are there any precautions to take when having a cold sore?"
+{
+    "q": "Are there any precautions to take when having a cold sore?",
+    "i": "<noinput>",
+    "a": "During a cold sore outbreak, it is important not to kiss anyone, especially infants, as it can be dangerous. Avoid oral sex until the cold sore completely heals to prevent transmitting the virus. It is also advised to avoid touching the cold sore apart from applying cream."
+}
+
+10. "What are some possible causes of symptoms similar to a cold sore?"
+{
+    "q": "What are some possible causes of symptoms similar to a cold sore?",
+    "i": "<noinput>",
+    "a": "Some possible causes of cold sore-like symptoms include spots or boils filled with pus, mouth ulcers, or impetigo, which are red sores or blisters that become crusty, golden-brown patches on the face." 
+}

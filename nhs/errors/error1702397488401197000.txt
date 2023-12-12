@@ -1,0 +1,59 @@
+1. Task: Classification
+
+Instruction: Classify the following symptoms as common or uncommon for postnatal depression: mood swings, loss of appetite, extreme fatigue, hallucinations.
+
+Input: "Symptoms: mood swings, loss of appetite, extreme fatigue, hallucinations."
+
+2. Task: Open-ended generation
+
+Instruction: Provide a brief explanation of what postnatal depression is and how it differs from baby blues.
+
+Input: <noinput>
+
+3. Task: Editing
+
+Instruction: Edit the following sentence to make it more concise and clear: "Postnatal depression is a mood disorder that affects some women after giving birth, causing feelings of sadness, anxiety, and exhaustion."
+
+Input: "Postnatal depression is a mood disorder that affects women after giving birth, causing sadness, anxiety, and exhaustion."
+
+4. Task: Yes/No question
+
+Instruction: Is postnatal depression more common in first-time mothers or in women who have previously given birth?
+
+Input: <noinput>
+
+5. Task: Open-ended generation
+
+Instruction: Can you explain the possible causes of postnatal depression and any risk factors associated with it?
+
+Input: <noinput>
+
+6. Task: Classification
+
+Instruction: Classify the following statements as true or false: "Postnatal depression only affects mothers" and "Postnatal depression can develop anytime within the first year after childbirth."
+
+Input: "Statements: Postnatal depression only affects mothers. Postnatal depression can develop anytime within the first year after childbirth."
+
+7. Task: Yes/No question
+
+Instruction: Is postnatal depression a temporary condition that will go away on its own without treatment?
+
+Input: <noinput>
+
+8. Task: Open-ended generation
+
+Instruction: Provide a list of possible treatment options for managing postnatal depression.
+
+Input: <noinput>
+
+9. Task: Classification
+
+Instruction: Classify the following statements as indicating a need for immediate medical attention or not: "Thoughts of harming oneself" and "Feeling tearful and overwhelmed occasionally."
+
+Input: "Statements: Thoughts of harming oneself. Feeling tearful and overwhelmed occasionally."
+
+10. Task: Yes/No question
+
+Instruction: Can postnatal depression affect the relationship between the mother and the baby?
+
+Input: <noinput>

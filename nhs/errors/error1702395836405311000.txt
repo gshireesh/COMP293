@@ -1,0 +1,15 @@
+[
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, use gloves to reduce the risk of infection and apply firm pressure to the wound with a clean pad or dressing until the bleeding stops. Then, bandage the wound firmly.",
+        "a": "If someone is bleeding heavily, use gloves to reduce the risk of infection and apply firm pressure to the wound with a clean pad or dressing until the bleeding stops. Then, bandage the wound firmly."
+    },
+    {
+        "q": "How should I cool a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes. Then cover the burn loosely with cling film or a clean, dry dressing.",
+        "a": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes. Then cover the burn loosely with cling film or a clean, dry dressing."
+    },
+    {
+        "q": "What should I do if someone is choking?",
+        "i": "If someone is choking and conscious, encourage them to cough and try to spit out the object. If choking is severe or they become unconscious, perform back blows and abdominal thrusts. Call 999 for an ambulance if the person's airway remains blocked.",
+        "a": "If someone is choking and conscious, encourage them to cough and try to spit out the object. If choking is severe or they become unconscious, perform back blows and abdominal thrusts. Call 999 for an ambulance if the person's air

@@ -1,0 +1,15 @@
+[
+  {
+    "q": "What are the first signs of hand, foot, and mouth disease?",
+    "i": "<noinput>",
+    "a": "The first signs of hand, foot, and mouth disease can include a sore throat, high temperature, and loss of appetite."
+  },
+  {
+    "q": "What does the rash of spots in hand, foot, and mouth disease look like?",
+    "i": "<noinput>",
+    "a": "The rash of spots in hand, foot, and mouth disease can look pink, red, or darker than the surrounding skin, depending on your skin tone. The spots may eventually turn into blisters."
+  },
+  {
+    "q": "Can hand, foot, and mouth disease affect adults?",
+    "i": "<noinput>",
+    "a": "Yes, hand, foot, and mouth disease can also affect adults, although the symptoms are usually the same as

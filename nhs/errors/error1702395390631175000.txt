@@ -1,0 +1,34 @@
+[
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "If someone is unconscious and not breathing",
+        "a": "Call 999 and start CPR straight away."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily",
+        "a": "Apply pressure to the wound with a clean pad or dressing until the bleeding stops."
+    },
+    {
+        "q": "How should you cool a burn or scald?",
+        "i": "If someone has a burn or scald",
+        "a": "Cool the burn as quickly as possible with cool running water for at least 20 minutes."
+    },
+    {
+        "q": "What should you do if someone is choking?",
+        "i": "If someone is choking",
+        "a": "Encourage them to cough and if that doesn't work, start back blows."
+    },
+    {
+        "q": "How can you help someone who is drowning?",
+        "i": "If someone is in difficulty in water",
+        "a": "Do not enter the water unless it's safe to do so, and then check if they're breathing."
+    },
+    {
+        "q": "What should you do if someone has had an electric shock?",
+        "i": "If someone has had an electric shock",
+        "a": "Switch off the electrical current at the mains and call 999 for an ambulance."
+    },
+    {
+        "q": "How should you treat a fracture?",
+        "i": "If a person

@@ -1,0 +1,15 @@
+[
+    {
+        "q": "What are the signs of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The signs of hand, foot, and mouth disease can include a sore throat, high temperature, and not wanting to eat. It can also cause mouth ulcers and a rash of spots on the hands, feet, thighs, and bottom."
+    },
+    {
+        "q": "What do the spots look like in hand, foot, and mouth disease?",
+        "i": "<noinput>",
+        "a": "The spots in hand, foot, and mouth disease can look pink, red, or darker than the surrounding skin. They can turn into blisters, which might be gray or lighter than the surrounding skin and can be painful."
+    },
+    {
+        "q": "How long does hand, foot, and mouth disease usually last?",
+        "i": "<noinput>",
+       

@@ -1,0 +1,15 @@
+[
+    {
+        "q": "What are the first signs of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The first signs of hand, foot and mouth disease can be a sore throat, a high temperature, and not wanting to eat."
+    },
+    {
+        "q": "What are the symptoms of hand, foot and mouth disease in adults and children?",
+        "i": "<noinput>",
+        "a": "The symptoms of hand, foot and mouth disease are usually the same in adults and children, but they can be worse in babies and children under 5. The symptoms include mouth ulcers, a raised rash of spots on the hands and feet, and sometimes the thighs and bottom."
+    },
+    {
+        "q": "Describe the appearance of the rash in hand, foot and mouth disease.",
+        "i": "<noinput>",
+        "a": "The rash of spots

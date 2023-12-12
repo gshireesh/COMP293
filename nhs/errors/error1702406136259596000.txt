@@ -1,0 +1,24 @@
+[
+{
+"q": "What are the reasons why amputation may be needed?",
+"i": "<noinput>",
+"a": "Amputation may be needed if there is a severe infection, gangrene, complications from diabetes, serious trauma, or limited movement and function in the limb."
+},
+{
+"q": "What is involved in the assessment before the amputation surgery?",
+"i": "<noinput>",
+"a": "The assessment before surgery includes a medical examination to check physical condition, a psychological assessment, and an assessment of home, work, and social environments."
+},
+{
+"q": "How are amputations done?",
+"i": "<noinput>",
+"a": "Amputations can be done under general anesthesia or using epidural/spinal anesthesia. Most amputations involve removing a section of a limb and techniques are used to improve the function of the remaining part of the limb."
+},
+{
+"q": "How does one recover after an amputation?",
+"i": "<noinput>",
+"a": "After surgery, oxygen and fluids may be given, and painkillers may be provided. Physical rehabilitation is important for recovery, which includes exercises, compression garments, and learning to use a prosthetic limb if fitted."
+},
+{
+"q": "What are the types of prosthetic limbs available?",
+"i": "<

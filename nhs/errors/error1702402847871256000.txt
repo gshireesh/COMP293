@@ -1,0 +1,15 @@
+[
+    {
+        "q": "What are the first signs of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The first signs of hand, foot and mouth disease can be a sore throat, high temperature, and not wanting to eat."
+    },
+    {
+        "q": "What does the rash of spots in hand, foot and mouth disease look like?",
+        "i": "<noinput>",
+        "a": "The rash of spots in hand, foot and mouth disease can look pink, red, or darker than the surrounding skin, depending on your skin tone. The spots can turn into blisters, which might be grey or lighter than surrounding skin."
+    },
+    {
+        "q": "How long does hand, foot and mouth disease usually last?",
+        "i": "<noinput>",
+        "a": "Hand, foot and mouth disease usually gets better on its own in 7

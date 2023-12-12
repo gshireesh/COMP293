@@ -1,0 +1,19 @@
+[
+    {
+        "q": "What should you do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe. If necessary, dial 999 for an ambulance when it's safe to do so. Carry out basic first aid.",
+        "a": "If someone is injured, you should first ensure the safety of both yourself and the injured person and then provide basic first aid while waiting for medical help if needed."
+    },
+    {
+        "q": "What should you do if someone is unconscious and breathing?",
+        "i": "If someone is unconscious but breathing, and has no other injuries that would stop them from being moved, place them in the recovery position until help arrives. Keep them under observation to ensure they continue to breathe normally.",
+        "a": "If someone is unconscious but breathing, you should place them in the recovery position and monitor their breathing until help arrives."
+    },
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away.",
+        "a": "If someone is unconscious and not breathing, you should immediately call 999 and start performing CPR."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, first dial 999 and ask for an ambulance. Use disposable gloves if available and apply firm pressure to the wound with a clean

@@ -1,0 +1,21 @@
+,q,i,a
+0,What are the 4 main blood groups?,<noinput>,"The 4 main blood groups are A, B, AB, and O."
+1,How is blood group determined?,<noinput>,Blood group is determined by the genes inherited from parents.
+2,What are antibodies and antigens in the blood?,<noinput>,Antibodies are proteins found in plasma that recognize and destroy foreign substances. Antigens are protein molecules found on the surface of red blood cells.
+3,What is the ABO blood group system?,<noinput>,"The ABO system categorizes blood groups into A, B, AB, and O based on the presence or absence of A and B antigens."
+4,Which blood group is the most common?,<noinput>,"Blood group O is the most common, with approximately 48% of the UK population having this blood group."
+5,What happens if someone receives blood from the wrong ABO group?,<noinput>,Receiving blood from the wrong ABO group can be life-threatening as the antibodies in the recipient's plasma may attack the transfused red blood cells.
+6,What is the Rh system?,<noinput>,The Rh system categorizes blood groups into RhD positive or RhD negative based on the presence or absence of the RhD antigen.
+7,What is the most common blood type in the UK?,<noinput>,"The most common blood type in the UK is O RhD positive (O+), making up approximately 35% of the population."
+8,How is blood group tested?,<noinput>,Blood group is tested by mixing red blood cells with different antibody solutions to observe the clumping reaction.
+9,Why are pregnant women always given a blood group test?,<noinput>,"Pregnant women are given a blood group test to check for RhD negative mothers carrying RhD-positive babies, as it can lead to complications if left untreated."
+0,How many main blood groups are there?,<noinput>,There are 4 main blood groups.
+1,What are antibodies and antigens in the blood?,<noinput>,Antibodies are proteins that recognize foreign substances in the blood and alert the immune system. Antigens are protein molecules found on the surface of red blood cells.
+2,What is the most common blood group?,<noinput>,"The most common blood group is O, which is found in almost half of the UK population."
+3,Why is it important to match blood groups before a transfusion?,<noinput>,Matching blood groups before a transfusion is important to prevent life-threatening reactions between different blood types.
+4,How is the RhD antigen related to blood groups?,<noinput>,The presence or absence of the RhD antigen determines whether a blood group is RhD positive or RhD negative.
+5,Can O RhD negative blood be given to anyone?,<noinput>,O RhD negative blood is safe for most recipients and can be given to anyone in most cases.
+6,How is blood group determined?,Blood group is determined by the genes inherited from parents.,Blood group is determined by the genes inherited from parents.
+7,Why are pregnant women given a blood group test?,<noinput>,Pregnant women are given a blood group test to identify if there is a risk of complications due to RhD incompatibility.
+8,Who can donate blood?,<noinput>,"Most people who are fit, healthy, and within the age range of 17 to 65 years can donate blood."
+9,How can I book an appointment to donate blood?,<noinput>,You can book an appointment to donate blood online or by calling 0300 123 23 23.

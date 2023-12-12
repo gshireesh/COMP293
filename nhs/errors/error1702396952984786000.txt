@@ -1,0 +1,25 @@
+[
+  {
+    "q": "What should I do if I come across someone who is unconscious but breathing?",
+    "i": "<noinput>",
+    "a": "If someone is unconscious but breathing and has no other injuries that would stop them from being moved, place them in the recovery position until help arrives. Keep them under observation to ensure they continue to breathe normally."
+  },
+  {
+    "q": "What should I do if someone is not breathing normally?",
+    "i": "<noinput>",
+    "a": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+  },
+  {
+    "q": "How do I treat someone experiencing anaphylactic shock?",
+    "i": "<noinput>",
+    "a": "If you think someone is experiencing anaphylactic shock, call 999 immediately. Check if the person is carrying an adrenaline self-injector and help them administer it. Continue to look after the person until medical help arrives."
+  },
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "<noinput>",
+    "a": "If someone is bleeding heavily, first, dial 999 and ask for an ambulance. Apply and maintain pressure to the wound until the bleeding stops, and then bandage it firmly. Seek medical help for bleeding, unless it's minor."
+  },
+  {
+    "q": "How do I treat a burn or scald?",
+    "i": "<noinput>",
+    "a": "If someone has a burn or scald, cool the burn

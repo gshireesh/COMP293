@@ -1,0 +1,25 @@
+[
+  {
+    "q": "What should I do if I come across someone who is unconscious and breathing?",
+    "i": "If you come across someone who is unconscious and breathing, place them in the recovery position until help arrives.",
+    "a": "Keep them in the recovery position and monitor their breathing until help arrives."
+  },
+  {
+    "q": "What should I do if someone is not breathing normally?",
+    "i": "If someone is not breathing normally, call 999 and start CPR straight away.",
+    "a": "Call 999 immediately and start CPR until help arrives."
+  },
+  {
+    "q": "How should I handle a severe allergic reaction?",
+    "i": "If you think someone is experiencing anaphylactic shock, call 999 and check if they are carrying any medication.",
+    "a": "Call 999 immediately and check if they have medication. Assist in administering the medication if needed."
+  },
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily, apply pressure to the wound with a clean pad or dressing and call 999.",
+    "a": "Apply pressure to the wound with a clean dressing and call 999 for immediate medical help."
+  },
+  {
+    "q": "How should I treat a burn or scald?",
+    "i": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes and call 999 if needed.",
+    "a": "Cool the burn with cool running water for at least 20 minutes and seek medical

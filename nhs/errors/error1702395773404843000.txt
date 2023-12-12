@@ -1,0 +1,20 @@
+[
+{
+  "q": "What should someone do if they come across a person who is unconscious and breathing?",
+  "i": "<noinput>",
+  "a": "If someone is unconscious and breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives. Keep them under observation to ensure they continue to breathe normally."
+},
+{
+  "q": "What should you do if someone is unconscious and not breathing?",
+  "i": "<noinput>",
+  "a": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+},
+{
+  "q": "What should you do if someone is bleeding heavily?",
+  "i": "<noinput>",
+  "a": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. First, dial 999 and ask for an ambulance as soon as possible. Use gloves to reduce the risk of infection, and apply pressure to the wound with a clean pad or dressing. Continue to apply pressure until the bleeding stops, and then bandage the wound firmly."
+},
+{
+  "q": "How should you treat a burn or scald?",
+  "i": "<noinput>",
+  "a": "To treat a burn or scald, cool the burn with cool running water for at least 20 minutes. Call 999 if necessary. Remove any clothing or jewelry if it's not attached to the skin. Cover the burn loosely with cling film or a clean dressing. Do not apply creams, lotions, or sprays to the burn

@@ -1,0 +1,54 @@
+{
+    "instructions": [
+        {
+            "q": "What is unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "Unintentional weight loss is when you lose weight without changing your diet or exercise routine. It can be a sign of stress or a serious illness. It's important to see a GP if you're experiencing this."
+        },
+        {
+            "q": "What are the causes of unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "Unintentional weight loss can be caused by various factors such as mental health conditions, digestion problems, other health conditions like thyroid issues or diabetes, and sometimes even cancer. It's important to get it checked by a GP if you're losing weight without trying."
+        },
+        {
+            "q": "When should I see a GP for unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "You should see a GP if you're continuously losing weight without changing your diet or exercise routine. It's important to get it checked as it could be a symptom of an underlying condition."
+        },
+        {
+            "q": "How is unintentional weight loss treated?",
+            "i": "<noinput>",
+            "a": "The treatment for unintentional weight loss depends on the underlying cause. A GP will assess your health, may arrange some tests or scans, advise you on stress reduction techniques, recommend treatment for any specific condition causing the weight loss, or refer you to a specialist if needed."
+        },
+        {
+            "q": "Could unintentional weight loss be a symptom of cancer?",
+            "i": "<noinput>",
+            "a": "Yes, unintentional weight loss can sometimes be caused by cancer. That's why it's important to see a GP if you're losing weight without trying."
+        },
+        {
+            "q": "Can mental health conditions cause unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "Yes, mental health conditions such as depression, anxiety, eating disorders, and OCD can be potential causes of unintentional weight loss. It's important to consider these factors when determining the cause."
+        },
+        {
+            "q": "Are there any digestion problems that can cause unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "Yes, digestion problems like coeliac disease or IBS can sometimes lead to unintentional weight loss. It's important to get a proper evaluation from a GP to determine the cause."
+        },
+        {
+            "q": "What are the possible health conditions that can cause unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "Various health conditions such as an overactive thyroid, type 2 diabetes, and heart failure can potentially cause unintentional weight loss. It's important to consider these possibilities and seek medical advice."
+        },
+        {
+            "q": "What can a GP do for unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "A GP will assess your health, ask about your symptoms, and may order tests or scans to determine the cause of the weight loss. They can provide advice on stress reduction, recommend treatment options, or refer you to a specialist if necessary."
+        },
+        {
+            "q": "Should I be concerned about unintentional weight loss?",
+            "i": "<noinput>",
+            "a": "Yes, unintentional weight loss should be a cause for concern as it can be a symptom of an underlying health condition. It's important to see a GP to get a proper evaluation and determine the cause."
+        }
+    ]
+}

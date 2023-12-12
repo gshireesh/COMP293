@@ -1,0 +1,29 @@
+1. What causes alkaptonuria and what are the symptoms?
+   {"q": "What causes alkaptonuria and what are the symptoms?", "i": "<noinput>", "a": "Alkaptonuria is caused by a genetic mutation and it leads to a buildup of homogentisic acid in the body. Symptoms include dark-stained urine, joint pain, eye and ear problems, and skin discoloration."}
+
+2. How is alkaptonuria inherited and why is it rare?
+   {"q": "How is alkaptonuria inherited and why is it rare?", "i": "<noinput>", "a": "Alkaptonuria is inherited through two copies of a faulty gene, one from each parent. It is rare because the chances of inheriting two copies of the gene are slim."}
+
+3. What is the treatment for alkaptonuria?
+   {"q": "What is the treatment for alkaptonuria?", "i": "<noinput>", "a": "The treatment for alkaptonuria includes the use of a medicine called nitisinone to reduce the level of homogentisic acid in the body. Painkillers and lifestyle changes can also help manage symptoms."}
+
+4. Can exercise help with alkaptonuria symptoms?
+   {"q": "Can exercise help with alkaptonuria symptoms?", "i": "<noinput>", "a": "Regular gentle exercise can actually help with alkaptonuria symptoms by building muscle and strengthening joints. However, activities that put strain on the joints should be avoided."}
+
+5. How can a protein-controlled diet help in managing alkaptonuria?
+   {"q": "How can a protein-controlled diet help in managing alkaptonuria?", "i": "<noinput>", "a": "A protein-controlled diet can help reduce the risk of potential side effects when taking nitisinone for alkaptonuria. A doctor or dietitian can provide guidance on this."}
+
+6. What emotional support is available for individuals with alkaptonuria?
+   {"q": "What emotional support is available for individuals with alkaptonuria?", "i": "<noinput>", "a": "Individuals with alkaptonuria can seek support from their GP or visit the AKU Society website, which offers support to patients, families, and caregivers."}
+
+7. Is surgery ever necessary for alkaptonuria?
+   {"q": "Is surgery ever necessary for alkaptonuria?", "i": "<noinput>", "a": "Surgery may be necessary for alkaptonuria if joints are damaged and need replacing or if heart valves or vessels have hardened. Procedures such as hip or knee replacements may be recommended."}
+
+8. What is the outlook for people with alkaptonuria?
+   {"q": "What is the outlook for people with alkaptonuria?", "i": "<noinput>", "a": "People with alkaptonuria have a normal life expectancy but may experience symptoms that impact their quality of life, such as joint pain and loss of mobility."}
+
+9. Can I opt out of sharing my alkaptonuria information with the National Congenital Anomaly and Rare Disease Registration Service?
+   {"q": "Can I opt out of sharing my alkaptonuria information with the National Congenital Anomaly and Rare Disease Registration Service?", "i": "<noinput>", "a": "Yes, you can opt out of sharing your alkaptonuria information with the National Congenital Anomaly and Rare Disease Registration Service at any time."}
+
+10. Where can I find more information and support for alkaptonuria?
+    {"q": "Where can I find more information and support for alkaptonuria?", "i": "<noinput>", "a": "You can find more information and support for alkaptonuria on the AKU Society website. They provide resources and support for patients, families, and caregivers."}

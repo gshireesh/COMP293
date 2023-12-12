@@ -1,0 +1,20 @@
+[
+  {
+    "q": "What should you do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily",
+    "a": "The main aim is to prevent further blood loss and minimise the effects of shock. First, dial 999 and ask for an ambulance as soon as possible. Use gloves if available, and apply pressure to the wound with a clean pad or dressing until the bleeding stops."
+  },
+  {
+    "q": "How should you cool a burn or scald?",
+    "i": "If someone has a burn or scald",
+    "a": "Cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. Call 999 or seek medical help if needed. While cooling the burn, carefully remove any clothing or jewelry if it's not attached to the skin."
+  },
+  {
+    "q": "What should you do if someone is experiencing an anaphylactic shock?",
+    "i": "If you think someone is experiencing anaphylactic shock",
+    "a": "Call 999 immediately. Check if the person is carrying any medication, such as an adrenaline self-injector. Help the person administer their medication if possible or give it to them yourself if trained to do so. After the injection, continue to look after the person until medical help arrives."
+  },
+  {
+    "q": "How can you help someone who is choking?",
+    "i": "If someone is choking",
+    "a": "If the airway is only partly blocked, encourage the person to cough or try to spit out the object.

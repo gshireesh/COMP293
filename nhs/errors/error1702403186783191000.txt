@@ -1,0 +1,34 @@
+[
+    {
+        "q": "What should you do if you've been stung by a sea creature?",
+        "i": "<noinput>",
+        "a": "If possible, ask a lifeguard or someone with first aid training for help. Rinse the affected area with seawater, remove any spines, soak the area in warm water, and take painkillers if needed."
+    },
+    {
+        "q": "What are the symptoms of sea creature stings?",
+        "i": "<noinput>",
+        "a": "The main symptoms are intense pain and an itchy rash. Some stings can cause raised circular areas on the skin as well."
+    },
+    {
+        "q": "How can you avoid being stung by sea creatures?",
+        "i": "<noinput>",
+        "a": "Look out for beach warning signs, consider wearing a wetsuit, and wear waterproof shoes or sandals. Scuff or stamp your feet to signal your approach to sea creatures."
+    },
+    {
+        "q": "What should you not do when it comes to sea creatures that sting?",
+        "i": "<noinput>",
+        "a": "Avoid touching or handling sea creatures that sting."
+    },
+    {
+        "q": "What should you do if you have severe pain that is not going away after being stung?",
+        "i": "<noinput>",
+        "a": "Go to a minor injuries unit for non-urgent treatment."
+    },
+    {
+        "q": "When should you go to the A&E or call 999 after being stung by a sea creature?",
+        "i": "<noinput>",
+        "a": "Go to the A&E or call 999 if you have difficulty breathing, chest pain, fits or seizures, severe swelling, severe bleeding, vomiting, or lightheadedness."
+    },
+    {
+        "q": "Which sea creatures in the UK can sting?",
+        "i": "<noinput>",

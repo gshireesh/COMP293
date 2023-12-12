@@ -1,0 +1,29 @@
+[
+    {
+        "q": "What should I do if someone is unconscious and not breathing?",
+        "i": "If someone is unconscious and not breathing",
+        "a": "Call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+    },
+    {
+        "q": "How should I treat a severe allergic reaction?",
+        "i": "If someone is experiencing anaphylactic shock",
+        "a": "Call 999 immediately and check if the person has an adrenaline self-injector. Administer the medication or help them administer it."
+    },
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily",
+        "a": "Dial 999 for an ambulance and apply pressure to the wound with a clean pad or dressing until the bleeding stops."
+    },
+    {
+        "q": "How should I treat a burn or scald?",
+        "i": "If someone has a burn or scald",
+        "a": "Cool the burn with cool running water for at least 20 minutes, remove any clothing or jewellery, and cover the burn with cling film or a clean dressing."
+    },
+    {
+        "q": "What should I do if someone has swallowed a poisonous substance?",
+        "i": "If someone has swallowed a poisonous substance",
+        "a": "Call 999 for immediate medical help, do not give them anything to eat or drink, and stay with them until help arrives."
+    },
+    {
+        "q": "How can I help someone who is choking?",
+        "i": "

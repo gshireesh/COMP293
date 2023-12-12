@@ -1,0 +1,19 @@
+[ 
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily, you should dial 999 for an ambulance as soon as possible. Check that there's nothing embedded in the wound and if not, apply and maintain pressure to the wound with a clean pad or dressing.",
+    "a": "If someone is bleeding heavily, you should dial 999 for an ambulance and apply and maintain pressure to the wound with a clean pad or dressing."
+  },
+  {
+    "q": "How should I cool a burn or scald?",
+    "i": "<noinput>",
+    "a": "To cool a burn or scald, you should quickly cool it with cool running water for at least 20 minutes, or until the pain is relieved. Afterwards, cover the burn loosely with cling film or a clean, dry dressing."
+  },
+  {
+    "q": "What should I do if someone is choking?",
+    "i": "If the person is choking and their airway is only partly blocked, encourage them to cough to try to clear the blockage. If choking is severe, perform back blows or abdominal thrusts. If the person becomes unconscious, call 999 and start CPR.",
+    "a": "If someone is choking and their airway is only partly blocked, encourage them to cough. If choking is severe, perform back blows or abdominal thrusts. If the person becomes unconscious, call 999 and start CPR."
+  },
+  {
+    "q": "What should I do if someone has had an electric shock?",
+    "i": "If someone has had an electric

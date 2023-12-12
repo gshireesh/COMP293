@@ -1,0 +1,15 @@
+[
+    {
+        "q": "What are the first signs of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The first signs of hand, foot and mouth disease can be a sore throat, a high temperature, and not wanting to eat."
+    },
+    {
+        "q": "What are the symptoms of hand, foot and mouth disease in adults?",
+        "i": "<noinput>",
+        "a": "The symptoms of hand, foot and mouth disease are usually the same in adults and children, but can be worse in babies and children under 5."
+    },
+    {
+        "q": "How can hand, foot and mouth disease be treated?",
+        "i": "<noinput>",
+        "a": "You cannot take antibiotics or medicines to cure hand, foot and mouth disease. It usually gets better on its own in 7 to 10 days. To help with the symptoms

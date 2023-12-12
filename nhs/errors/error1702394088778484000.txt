@@ -1,0 +1,54 @@
+{
+    "instructions": [
+        {
+            "q": "What are the reasons for carrying out a caesarean section?",
+            "i": "<noinput>",
+            "a": "A caesarean section may be carried out if the baby is in breech position, there is a low-lying placenta, high blood pressure, certain infections, lack of oxygen and nutrients to the baby, or if the labor is not progressing or there's excessive vaginal bleeding."
+        },
+        {
+            "q": "Under what circumstances can a woman ask for a caesarean section?",
+            "i": "<noinput>",
+            "a": "A woman can ask for a caesarean section if she feels that a vaginal birth is not an acceptable option after discussing the risks and benefits with her healthcare professional."
+        },
+        {
+            "q": "What happens during a caesarean section?",
+            "i": "<noinput>",
+            "a": "During a caesarean section, the woman is numbed from the waist down, a cut is made across the lower tummy and womb to deliver the baby, and the woman and her birth partner can see and hold the baby as soon as it is delivered."
+        },
+        {
+            "q": "How long does a caesarean section operation usually take?",
+            "i": "<noinput>",
+            "a": "A caesarean section operation normally takes about 40 to 50 minutes."
+        },
+        {
+            "q": "What is the recovery time for a caesarean section?",
+            "i": "<noinput>",
+            "a": "Recovering from a caesarean section usually takes longer than recovering from a vaginal delivery. Most women can go home 1 to 2 days after the surgery."
+        },
+        {
+            "q": "What are the risks associated with a caesarean section?",
+            "i": "<noinput>",
+            "a": "Some risks of a caesarean section include infection, blood clots, excessive bleeding, damage to nearby areas, temporary breathing difficulties in the baby, and accidental cutting of the baby."
+        },
+        {
+            "q": "Can a woman have a vaginal birth after a caesarean section?",
+            "i": "<noinput>",
+            "a": "Most women who have had a caesarean section can safely have a vaginal birth for their next baby, known as vaginal birth after caesarean (VBAC), but it depends on the individual circumstances and may require extra monitoring."
+        },
+        {
+            "q": "In what circumstances might a woman be advised to have another caesarean section for future pregnancies?",
+            "i": "<noinput>",
+            "a": "A woman may be advised to have another caesarean section for future pregnancies if it is still the safest option for her and her baby."
+        },
+        {
+            "q": "Where can I find more information on birth options after a previous caesarean section?",
+            "i": "<noinput>",
+            "a": "You can read the Royal College of Obstetricians and Gynaecologists leaflet on birth options after previous caesarean section for more information."
+        },
+        {
+            "q": "What is the usual location of the incision for a caesarean section?",
+            "i": "<noinput>",
+            "a": "The incision for a caesarean section is usually made across the lower tummy, just below the bikini line."
+        }
+    ]
+}

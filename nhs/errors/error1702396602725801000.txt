@@ -1,0 +1,25 @@
+[
+  {
+    "q": "What should I do if someone is unconscious and not breathing?",
+    "i": "<noinput>",
+    "a": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+  },
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "<noinput>",
+    "a": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. First, dial 999 and ask for an ambulance as soon as possible."
+  },
+  {
+    "q": "How should I treat burns and scalds?",
+    "i": "<noinput>",
+    "a": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. Call 999 or seek medical help, if needed."
+  },
+  {
+    "q": "What should I do in case of a poisoning?",
+    "i": "<noinput>",
+    "a": "If you think someone has swallowed a poisonous substance, call 999 to get immediate medical help and advice. Do not give the person anything to eat or drink unless a healthcare professional advises you to."
+  },
+  {
+    "q": "What are the signs of shock and how should it be treated?",
+    "i": "<noinput>",
+    "a": "Signs of shock include pale, cold, clammy skin, sweating, rapid, shallow breathing, weakness and dizziness. If you notice

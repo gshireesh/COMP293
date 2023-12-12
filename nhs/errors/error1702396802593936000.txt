@@ -1,0 +1,19 @@
+[
+    {
+        "q": "If someone is unconscious and breathing, what should you do?",
+        "i": "If someone is unconscious and breathing, place them in the recovery position until help arrives.",
+        "a": "If someone is unconscious and breathing, you should place them in the recovery position until help arrives. Keep them under observation to ensure they continue to breathe normally."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, first dial 999 for an ambulance. Then, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops.",
+        "a": "If someone is bleeding heavily, first dial 999 for an ambulance. Then, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops. If bleeding continues, apply another pad and continue to check for bleeding."
+    },
+    {
+        "q": "How should you treat a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes, then cover the burn loosely with cling film or a clean dressing.",
+        "a": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes, then cover the burn loosely with cling film or a clean dressing. Don't apply creams or lotions to the burn."
+    },
+    {
+        "q": "What should you do in case of an electric shock?",
+        "i": "If someone has had an electric shock, switch off the electrical current

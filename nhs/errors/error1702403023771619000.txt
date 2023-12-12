@@ -1,0 +1,19 @@
+[
+    {
+        "q": "What should I do if someone is unconscious and not breathing?",
+        "i": "If someone is unconscious and not breathing, call 999 and start cardiopulmonary resuscitation (CPR) straight away.",
+        "a": "If someone is unconscious and not breathing, you should immediately call 999 and start performing CPR."
+    },
+    {
+        "q": "How should I treat a severe burn or scald?",
+        "i": "If someone has a severe burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. Call 999 or seek medical help if needed.",
+        "a": "To treat a severe burn or scald, you should cool the burn with cool running water for at least 20 minutes and call for medical help if needed."
+    },
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. First, dial 999 and ask for an ambulance as soon as possible.",
+        "a": "If someone is bleeding heavily, you should first dial 999 and ask for an ambulance. The main aim is to prevent further blood loss and minimize the effects of shock."
+    },
+    {
+        "q": "How do I perform back blows for someone who is choking?",
+        "i": "To perform back blows, stand behind the person and slightly to one side. Support their chest with one hand. Lean the person forward so the object blocking

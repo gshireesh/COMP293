@@ -1,0 +1,52 @@
+[
+    {
+        "q": "What are the symptoms of a staph skin infection?",
+        "i": "<noinput>",
+        "a": "Symptoms of a staph skin infection can include a painful red lump or bump on the skin (boil or carbuncle), an abscess, hot, red and swollen skin (cellulitis), sores, crusts or blisters (impetigo), or sore, red eyelids or eyes (stye or conjunctivitis)."
+    },
+    {
+        "q": "How can I check if I have a staph skin infection?",
+        "i": "If you have symptoms such as a painful red lump or bump, hot, red and swollen skin, sores, crusts or blisters, or sore, red eyelids or eyes, it is possible that you may have a staph skin infection."
+        "a": "If you have symptoms such as a painful red lump or bump, hot, red and swollen skin, sores, crusts or blisters, or sore, red eyelids or eyes, it is possible that you may have a staph skin infection."
+    },
+    {
+        "q": "What are the more serious infections that staph bacteria can cause?",
+        "i": "<noinput>",
+        "a": "Staph bacteria can cause more serious infections like blood poisoning and toxic shock syndrome, although these are much less common than skin infections."
+    },
+    {
+        "q": "When should I see a doctor if I think I have a staph skin infection?",
+        "i": "<noinput>",
+        "a": "You should see a GP if you think you have a staph skin infection and it's getting worse or spreading quickly, if it lasts more than a week, or if you have a weakened immune system. You might need antibiotics to treat the infection."
+    },
+    {
+        "q": "How are staph infections spread?",
+        "i": "<noinput>",
+        "a": "Staph infections can be spread through close skin contact, sharing things like towels or toothbrushes, and droplets in coughs and sneezes (although this is less common)."
+    },
+    {
+        "q": "How can I reduce my chances of getting a staph infection or spreading the bacteria to others?",
+        "i": "<noinput>",
+        "a": "To reduce your chances of getting a staph infection or spreading the bacteria to others, you should wash your hands with soap and water regularly, keep your skin clean, keep any cuts clean and covered, and avoid sharing items like towels, washcloths, bed linen, toothbrushes, and razors."
+    },
+    {
+        "q": "Can staph infections be completely prevented?",
+        "i": "<noinput>",
+        "a": "It can be difficult to prevent staph infections completely because many people have the bacteria on their skin. However, there are steps you can take to reduce your chances of getting an infection or spreading the bacteria."
+    },
+    {
+        "q": "What are the common places on the body where staph bacteria live?",
+        "i": "<noinput>",
+        "a": "Staph bacteria live harmlessly on many people's skin, often in the nose and armpits and on the buttocks."
+    },
+    {
+        "q": "Can staph infections be spread through coughing and sneezing?",
+        "i": "<noinput>",
+        "a": "Staph infections can be spread through droplets in coughs and sneezes, although this is less common compared to close skin contact or sharing personal items."
+    },
+    {
+        "q": "What should I do if I keep getting staph infections?",
+        "i": "<noinput>",
+        "a": "If you keep getting staph infections, it's important to see a GP for proper evaluation and advice on potential underlying causes or preventive measures."
+    }
+]

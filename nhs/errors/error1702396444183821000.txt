@@ -1,0 +1,19 @@
+[
+    {
+        "q": "What should I do if someone is unconscious and not breathing?",
+        "i": "If someone is unconscious and not breathing, you should call 999 and start cardiopulmonary resuscitation (CPR) straight away.",
+        "a": "If someone is unconscious and not breathing, you should call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+    },
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. First, dial 999 and ask for an ambulance as soon as possible.",
+        "a": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. First, dial 999 and ask for an ambulance as soon as possible."
+    },
+    {
+        "q": "What should I do if someone has a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. Call 999 or seek medical help if needed.",
+        "a": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. Call 999 or seek medical help if needed."
+    },
+    {
+        "q": "How should I treat a chemical burn?",
+        "i": "For chemical burns, wear protective

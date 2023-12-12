@@ -1,0 +1,39 @@
+1. Q: What are some self-care tips to ease a black eye?
+   Input: <noinput>
+   Output: You can gently hold an ice pack wrapped in a cloth to the area around your eye for 10-20 minutes at a time, take painkillers like paracetamol or ibuprofen, and apply a warm heat pack to the area. Avoid pressing or rubbing the eye and don't put ice directly on your skin.
+
+2. Q: When should I see a GP for a black eye that doesn't go away?
+   Input: <noinput>
+   Output: If your black eye doesn't go away within 3 weeks, it's non-urgent but you should schedule an appointment with a GP.
+
+3. Q: What are the urgent signs related to a black eye that require immediate medical attention?
+   Input: <noinput>
+   Output: If you have a black eye and experience symptoms such as a persistent headache, blurry vision, warm area around your eye, high temperature, or if you take blood-thinning medication or have a bleeding disorder, seek urgent medical advice from a GP or call NHS 111.
+
+4. Q: What should I do if I see blood in my eye?
+   Input: <noinput>
+   Output: If you notice blood in your eye, it is important to go to A&E immediately for further evaluation and treatment.
+
+5. Q: What should I do if I have bruising around both eyes after a head injury?
+   Input: <noinput>
+   Output: If you've experienced a blow to the head and have bruising around both eyes, it's important to go to A&E for immediate evaluation and medical attention.
+
+6. Q: What are the signs of a serious eye injury after a black eye?
+   Input: <noinput>
+   Output: Serious signs of an eye injury after a black eye include an irregularly shaped pupil, loss of consciousness or vomiting after a head injury, vision problems like double vision or loss of vision, and severe eye pain when exposed to bright light. Seek immediate medical help if you experience any of these symptoms.
+
+7. Q: Can aspirin worsen the bruising in a black eye?
+   Input: <noinput>
+   Output: Yes, aspirin can make the bruising in a black eye worse. It is recommended to avoid taking aspirin unless prescribed by a doctor.
+
+8. Q: What are the possible causes of a black eye?
+   Input: <noinput>
+   Output: A black eye is typically caused by a blow to the eye area, such as a punch or fall. It results in bruising and swelling that usually resolves within 2 to 3 weeks.
+
+9. Q: Can I use a bag of frozen peas wrapped in a cloth as an ice pack for a black eye?
+   Input: <noinput>
+   Output: Yes, you can use a bag of frozen peas wrapped in a cloth as a makeshift ice pack to reduce swelling and pain in a black eye. Apply it to the area around your eye for 10-20 minutes at a time.
+
+10. Q: Is it normal to have a headache along with a black eye?
+    Input: <noinput>
+    Output: While a headache can be associated with a black eye, if the headache persists or is severe, it is recommended to seek medical advice for further evaluation.

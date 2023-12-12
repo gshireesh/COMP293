@@ -1,0 +1,18 @@
+[
+{
+"q": "What should I do if someone is bleeding heavily?",
+"i": "If someone is bleeding heavily, what should I do?",
+"a": "First, dial 999 and ask for an ambulance as soon as possible. If you have disposable gloves, use them to reduce the risk of any infection being passed on. Apply and maintain pressure to the wound with your gloved hand, using a clean pad or dressing if possible. Continue to apply pressure until the bleeding stops."
+},
+{
+"q": "How should I treat a burn or scald?",
+"i": "I need to know how to treat a burn or scald.",
+"a": "Cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. While cooling the burn, and before the area begins to swell, carefully remove any clothing or jewelry, unless it's attached to the skin. If the burn has cooled, cover it loosely with cling film. If cling film isn't available, use a clean, dry dressing or non-fluffy material. Do not apply creams, lotions, or sprays to the burn."
+},
+{
+"q": "What should I do if someone is choking?",
+"i": "If someone is choking, what should I do?",
+"a": "If the airway is only partly blocked, encourage the person to cough to try to clear the blockage. If that doesn't work, start back blows. If choking is severe and the person cannot speak, cry, cough, or breathe, start back blows immediately. Remember to call 999 and ask for an ambulance."
+},
+{
+"q": "How

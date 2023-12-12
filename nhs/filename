@@ -1,0 +1,52 @@
+[
+    {
+        "q": "What is the purpose of a lung health check?",
+        "i": "<noinput>",
+        "a": "The purpose of a lung health check is to find lung cancer early, sometimes before symptoms appear, in order to improve treatment options and outcomes."
+    },
+    {
+        "q": "Who is eligible for a lung health check?",
+        "i": "<noinput>",
+        "a": "Individuals aged between 55 and 74 who have ever smoked and live in an area where lung health checks are offered are eligible for a lung health check."
+    },
+    {
+        "q": "How can I check if lung health checks are available in my area?",
+        "i": "<noinput>",
+        "a": "You can visit specific websites based on your location to check if lung health checks are available in your area."
+    },
+    {
+        "q": "What happens during a lung health check appointment?",
+        "i": "<noinput>",
+        "a": "During a lung health check appointment, a health professional will ask you about your health and lifestyle to assess your risk of developing lung cancer. They may also measure your height and weight."
+    },
+    {
+        "q": "What are the possible outcomes of a lung health check?",
+        "i": "<noinput>",
+        "a": "After a lung health check, there are three possible outcomes: no further action, referral to your GP for further evaluation, or an invitation for a CT scan if you are at a higher risk of developing lung cancer."
+    },
+    {
+        "q": "What happens if I am offered a CT scan?",
+        "i": "<noinput>",
+        "a": "If you are offered a CT scan, it will be done either in a mobile scanning unit or at your local hospital. The scan itself only takes a few minutes and you will receive your results within 4 weeks."
+    },
+    {
+        "q": "What should I do if I have not been invited for a lung health check?",
+        "i": "<noinput>",
+        "a": "If you have not been invited for a lung health check but believe you are eligible, you can contact your local area through the provided websites and inquire about the possibility of being referred."
+    },
+    {
+        "q": "What are some symptoms of lung cancer that should not wait for a lung health check?",
+        "i": "<noinput>",
+        "a": "If you experience symptoms such as a persistent cough, coughing up blood, unexplained weight loss, or chest pain, it is important to see a GP promptly and not wait for a lung health check."
+    },
+    {
+        "q": "Where can I find more information about lung health checks?",
+        "i": "<noinput>",
+        "a": "You can find more information about lung health checks from reputable sources such as Cancer Research UK and the Roy Castle Lung Cancer Foundation."
+    },
+    {
+        "q": "Can I help improve the website by providing feedback?",
+        "i": "<noinput>",
+        "a": "Yes, you can participate in a survey to provide feedback and help in improving the website."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "q": "What are the symptoms of acute prostatitis?",
+        "i": "<noinput>",
+        "a": "The symptoms of acute prostatitis include severe pain in or around the penis, testicles, anus, lower abdomen or lower back, pain when peeing, frequent urination, problems starting or stopping urination, an urgent need to urinate, blood in the urine, inability to urinate, feeling unwell with aches, pains, and possibly a high temperature, lower back pain, and pain on ejaculation."
+    },
+    {
+        "q": "What are the symptoms of chronic prostatitis?",
+        "i": "<noinput>",
+        "a": "The symptoms of chronic prostatitis may include pain in and around the penis, testicles, anus, lower abdomen or lower back, pain when urinating, frequent or urgent need to urinate, particularly at night, "stop-start" urination, an enlarged or tender prostate on rectal examination, sexual problems such as erectile dysfunction, pain when ejaculating or pelvic pain after sex."
+    },
+    {
+        "q": "When should I seek medical advice for prostatitis symptoms?",
+        "i": "<noinput>",
+        "a": "You should see a GP if you have pelvic pain, difficulty or pain when urinating, or painful ejaculation. It is important to get a proper diagnosis and appropriate treatment. If you have sudden and severe symptoms, seek medical attention immediately."
+    },
+    {
+        "q": "What is the treatment for acute prostatitis?",
+        "i": "<noinput>",
+        "a": "Acute prostatitis is usually treated with painkillers and a 2- to 4-week course of antibiotics. In some cases, hospital treatment may be necessary. It is important to complete the full course of treatment to ensure complete recovery."
+    },
+    {
+        "q": "What is the treatment for chronic prostatitis?",
+        "i": "<noinput>",
+        "a": "The treatment for chronic prostatitis aims to manage the symptoms. It may include painkillers, alpha-blockers to relax the muscles in the prostate gland and bladder, antibiotics, and laxatives if bowel movements are painful. The goal is to reduce symptoms and improve day-to-day activities."
+    },
+    {
+        "q": "What causes acute prostatitis?",
+        "i": "<noinput>",
+        "a": "Acute prostatitis is usually caused by bacteria entering the prostate from the urinary tract. This can happen due to urinary tract infections, the use of urinary catheters, prostate biopsies, sexually transmitted infections, HIV or AIDS, urinary tract problems, anal sex, or pelvic injuries."
+    },
+    {
+        "q": "What causes chronic prostatitis?",
+        "i": "<noinput>",
+        "a": "The cause of chronic prostatitis is often unclear, as signs of infection in the prostate gland cannot usually be found. It is believed to be related to various factors, but the exact cause is unknown."
+    },
+    {
+        "q": "What are the risk factors for acute prostatitis?",
+        "i": "<noinput>",
+        "a": "The risk factors for acute prostatitis include recent urinary tract infections, the use of urinary catheters, prostate biopsies, sexually transmitted infections, HIV or AIDS, urinary tract problems, anal sex, and pelvic injuries."
+    },
+    {
+        "q": "What are the risk factors for chronic prostatitis?",
+        "i": "<noinput>",
+        "a": "The risk factors for chronic prostatitis include age (men aged between 50 and 59 are more likely to get it), previous episodes of prostatitis, other painful abdominal conditions such as irritable bowel syndrome (IBS), and a history of sexual abuse."
+    },
+    {
+        "q": "What is the outlook for prostatitis?",
+        "i": "<noinput>",
+        "a": "Acute prostatitis usually clears with a course of antibiotics. In some cases, complications such as acute urinary retention or prostate abscess may require further treatment. Chronic prostatitis can be challenging to treat, but with proper treatment, symptoms can gradually improve over time."
+    }
+]

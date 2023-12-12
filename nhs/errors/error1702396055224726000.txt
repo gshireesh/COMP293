@@ -1,0 +1,25 @@
+[
+    {
+        "q" : "What should you do if someone is unconscious but breathing?",
+        "i" : "<noinput>",
+        "a" : "If someone is unconscious but breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives."
+    },
+    {
+        "q" : "What is anaphylaxis?",
+        "i" : "<noinput>",
+        "a" : "Anaphylaxis is a severe allergic reaction that can occur after an insect sting or eating certain foods. It can cause difficulty in breathing and swelling of the throat."
+    },
+    {
+        "q" : "How should you treat anaphylaxis?",
+        "i" : "<noinput>",
+        "a" : "If someone is experiencing anaphylaxis, call 999 immediately. Check if they have an adrenaline self-injector and assist them in using it. Stay with them until medical help arrives."
+    },
+    {
+        "q" : "What should you do if someone is bleeding heavily?",
+        "i" : "<noinput>",
+        "a" : "If someone is bleeding heavily, apply pressure to the wound with a clean dressing or cloth. If an object is embedded in the wound, press on either side of the object and build padding around it before bandaging."
+    },
+    {
+        "q" : "How should you treat burns and scalds?",
+        "i" : "<noinput>",
+        "a" : "For burns and scalds, cool the burn quickly with cool running water for at least 20 minutes. Do not

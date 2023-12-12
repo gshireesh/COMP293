@@ -1,0 +1,23 @@
+[
+    {
+        "q": "What should I do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe.",
+        "a": "You should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe."
+    },
+    {
+        "q": "What should I do if someone is unconscious but breathing?",
+        "i": "If someone is unconscious but breathing, and has no other injuries that would stop them from being moved, place them in the recovery position until help arrives.",
+        "a": "If someone is unconscious but breathing, and has no other injuries that would stop them from being moved, place them in the recovery position until help arrives."
+    },
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock.",
+        "a": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock."
+    },
+    {
+        "q": "How should I treat a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes.",
+        "a": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes."
+    },
+    {
+        "q": "

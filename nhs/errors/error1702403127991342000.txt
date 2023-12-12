@@ -1,0 +1,28 @@
+[
+    {
+        "q": "What should you do if you've been stung by a sea creature?",
+        "i": "<noinput>",
+        "a": "If possible, ask a lifeguard or someone with first aid training for help. If help is not available, rinse the affected area with seawater, remove any spines using tweezers, soak the area in warm water, and take painkillers if needed."
+    },
+    {
+        "q": "What are the main symptoms of sea creature stings?",
+        "i": "<noinput>",
+        "a": "The main symptoms of sea creature stings are intense pain at the sting site, an itchy rash, and possible welts for jellyfish and Portuguese man-of-war stings."
+    },
+    {
+        "q": "How can you avoid being stung by sea creatures?",
+        "i": "<noinput>",
+        "a": "To avoid being stung, look out for beach warning signs, consider wearing a wetsuit when swimming in the sea, wear waterproof shoes or sandals in shallow or rocky areas, and scuff or stamp your feet to let sea creatures know you're approaching."
+    },
+    {
+        "q": "What sea creatures in the UK are known to sting?",
+        "i": "<noinput>",
+        "a": "Some sea creatures in the UK that can sting include jellyfish, Portuguese man-of-war, weever fish, sea urchins, and stingrays."
+    },
+    {
+        "q": "If you've been stung and have difficulty breathing, chest pain, or seizures, what should you do?",
+        "i": "<noinput>",
+        "a": "If you've been stung and have difficulty breathing, chest pain, or seizures, you should go to the nearest A&E department or call 999 for immediate medical attention."
+    },
+    {
+        "q": "What should you not do when you've been stung by a sea creature

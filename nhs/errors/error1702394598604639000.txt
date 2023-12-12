@@ -1,0 +1,13 @@
+[
+    {
+        "q": "Check if it's hand, foot and mouth disease",
+        "i": "Is my child showing symptoms like sore throat, high temperature, and loss of appetite?",
+        "a": "If your child is experiencing symptoms like sore throat, high temperature, and loss of appetite, it could be hand, foot and mouth disease. However, a proper diagnosis from a healthcare professional is recommended."
+    },
+    {
+        "q": "What are the signs and symptoms of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The signs and symptoms of hand, foot and mouth disease include sore throat, high temperature, mouth ulcers, a raised rash of spots on the hands and feet, and sometimes the thighs and bottom. The rash can vary in appearance depending on the individual's skin tone."
+    },
+    {
+        "q": "How long does hand, foot and mouth disease

@@ -1,0 +1,59 @@
+1. Q: What are the common symptoms of neuroendocrine tumours?
+   
+      I: <noinput>
+   
+      A: Common symptoms of neuroendocrine tumours include tummy pain, blocked bowel, rectal bleeding, coughing up blood, wheezing, chest pain, weight loss, flushing of the skin, fast heart rate, breathlessness, and loss of appetite. In some cases, tumours may not cause any symptoms and are discovered by chance.
+
+2. Q: How are neuroendocrine tumours diagnosed?
+   
+      I: <noinput>
+   
+      A: Neuroendocrine tumours can be diagnosed through a series of scans and tests, including measuring the amount of serotonin in urine and having an endoscopy. In some cases, the tumour may be found incidentally during surgery and removed along with the appendix.
+
+3. Q: What are the treatment options for neuroendocrine tumours?
+   
+      I: <noinput>
+   
+      A: Treatment options for neuroendocrine tumours may include complete surgical removal, debulking to remove as much of the tumour as possible, injections of somatostatin analogues, radiotherapy, hepatic artery embolisation, radiofrequency ablation, chemotherapy, targeted drugs, widening of airways, and anti-diarrhoea medicine.
+
+4. Q: How can I manage the symptoms of carcinoid syndrome?
+   
+      I: <noinput>
+   
+      A: To manage symptoms of carcinoid syndrome, you can avoid triggers of flushing such as alcohol, large meals, spicy foods, and foods containing tyramine. It's also important to stay hydrated if you have diarrhoea by drinking little and often.
+
+5. Q: Can neuroendocrine tumours be cured?
+   
+      I: <noinput>
+   
+      A: If the whole tumour can be removed, it may cure the cancer and symptoms altogether. However, if the entire tumour cannot be removed, it can usually be controlled with medicine and treatments. Survival depends on various factors, including the person's condition and the type of tumour.
+
+6. Q: What are the potential causes of neuroendocrine tumours?
+   
+      I: <noinput>
+   
+      A: The exact causes of neuroendocrine tumours are not known, but they are thought to occur mostly by chance. However, certain factors like rare family syndromes and certain genetic conditions may increase the risk of developing these tumours.
+
+7. Q: What are the different types of neuroendocrine tumours?
+   
+      I: <noinput>
+   
+      A: Neuroendocrine tumours can occur in various parts of the body, including the bowels, appendix, stomach, pancreas, lung, breast, kidney, ovaries, and testicles. Some types are referred to as carcinoid tumours, particularly when they affect the small bowel, large bowel, or appendix.
+
+8. Q: How common are neuroendocrine tumours?
+   
+      I: <noinput>
+   
+      A: Approximately 4,000 people are diagnosed with neuroendocrine tumours in the UK each year. However, not everyone with a tumour will develop carcinoid syndrome.
+
+9. Q: What is carcinoid syndrome and its symptoms?
+   
+      I: <noinput>
+   
+      A: Carcinoid syndrome is a collection of symptoms that some people with neuroendocrine tumours may experience, especially when the tumour has spread to the liver. Symptoms include diarrhoea, tummy pain, loss of appetite, flushing of the skin, fast heart rate, breathlessness, wheezing, and potential complications like carcinoid heart disease and carcinoid crisis.
+
+10. Q: How can I increase my chances of detecting neuroendocrine tumours early?
+   
+      I: <noinput>
+   
+      A: Regular check-ups with your GP and being aware of common symptoms can help in early detection of neuroendocrine tumours. If you experience any concerning symptoms, it's important to consult with a healthcare professional for further evaluation and diagnosis.

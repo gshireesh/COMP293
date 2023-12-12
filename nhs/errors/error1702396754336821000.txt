@@ -1,0 +1,24 @@
+[
+    {
+        "q": "What is the first thing you should do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger",
+        "a": "The first thing you should do if someone is injured is to check that you and the injured person aren't in any danger."
+    },
+    {
+        "q": "What should you do if someone is unconscious but breathing?",
+        "i": "If someone is unconscious but breathing, place them in the recovery position until help arrives.",
+        "a": "If someone is unconscious but breathing, you should place them in the recovery position until help arrives."
+    },
+    {
+        "q": "If someone is not breathing, what should you do?",
+        "i": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away.",
+        "a": "If someone is not breathing, you should call 999 and start cardiopulmonary resuscitation (CPR) immediately."
+    },
+    {
+        "q": "How should you treat a severe allergic reaction?",
+        "i": "If you think someone is experiencing anaphylactic shock, call 999 immediately and check if they have any medication with them.",
+        "a": "If you think someone is experiencing anaphylactic shock, you should call 999 immediately and check if they have any medication with them."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, the main

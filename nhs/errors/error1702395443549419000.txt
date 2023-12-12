@@ -1,0 +1,24 @@
+[
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimise the effects of shock.",
+    "a": "First, dial 999 and ask for an ambulance as soon as possible."
+  },
+  {
+    "q": "What should I do if someone is choking?",
+    "i": "If the airway is only partly blocked, the person will usually be able to speak, cry, cough or breathe.",
+    "a": "Encourage the person to cough to try to clear the blockage."
+  },
+  {
+    "q": "What should I do if someone has a burn or scald?",
+    "i": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved.",
+    "a": "Call 999 or seek medical help, if needed."
+  },
+  {
+    "q": "What should I do if someone is unconscious and breathing?",
+    "i": "If someone is unconscious but breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives.",
+    "a": "Keep them under observation to ensure they continue to breathe normally."
+  },
+  {
+    "q": "What should I do if someone is experiencing anaphylactic shock?",
+    "i": "If someone is experiencing anaphylactic shock, it may be difficult for them to breathe, as their tongue and throat may swell, obstructing their airway

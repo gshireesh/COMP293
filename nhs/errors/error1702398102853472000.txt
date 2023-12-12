@@ -1,0 +1,50 @@
+[
+    {
+        "q": "How successful is CPR?",
+        "i": "<noinput>",
+        "a": "CPR can sometimes get the heart and breathing going again. The actions used in CPR, such as chest compressions, can cause bruising, break ribs and puncture lungs. Overall, CPR restarts the heart and/or breathing for between 1 and 2 in 10 people whose heart or breathing have stopped."
+    },
+    {
+        "q": "What does DNACPR mean and how is it recorded?",
+        "i": "<noinput>",
+        "a": "DNACPR stands for do not attempt cardiopulmonary resuscitation. DNACPR is sometimes called DNAR (do not attempt resuscitation) or DNR (do not resuscitate) but they all refer to the same thing. A DNACPR decision is made by you and/or your doctor or healthcare team and is usually recorded on a special form."
+    },
+    {
+        "q": "When is a DNACPR decision made and a form written and who is involved?",
+        "i": "<noinput>",
+        "a": "A DNACPR decision can be made by you in advance to refuse CPR or by your doctor even if you disagree. The decision involves consultation with your doctor, healthcare team, and, if needed, your attorney, personal welfare deputy, or independent mental capacity advocate. The decision should be based on your individual health, needs, and priorities."
+    },
+    {
+        "q": "What happens if you are unable to make or discuss a DNACPR decision in advance of your heart stopping?",
+        "i": "<noinput>",
+        "a": "If you lack the capacity to decide about CPR, doctors will check if you have an Advance Decision to Refuse Treatment (ADRT) or a Lasting Power of Attorney (LPA) for health and care decisions. If not, a best interest's decision will be made by the senior doctor based on the input of the people important to you."
+    },
+    {
+        "q": "How long does a DNACPR form last?",
+        "i": "<noinput>",
+        "a": "A DNACPR form can be written for a short period, such as during a hospital admission, or with no end date, such as for a long-term condition. It is recommended that a DNACPR be reviewed whenever your situation changes, such as when you leave the hospital."
+    },
+    {
+        "q": "Is a DNACPR form legally binding?",
+        "i": "<noinput>",
+        "a": "No, a DNACPR form is not legally binding. It is a tool to inform healthcare providers not to attempt CPR. If you want your decision to be legally binding, you should write an Advance Decision to Refuse Treatment (ADRT)."
+    },
+    {
+        "q": "What should you do if you are concerned about a DNACPR form in your medical record or on somebody else's?",
+        "i": "<noinput>",
+        "a": "If you are concerned about a DNACPR form, you should first raise those concerns with your doctor. If you are still not happy, you can ask for another doctor's opinion. If you are not the patient and the patient has capacity, they will need to agree to your involvement. If you do not have capacity, your family, friends, or legal representatives can raise concerns on your behalf."
+    },
+    {
+        "q": "What are the risks of CPR?",
+        "i": "<noinput>",
+        "a": "The actions used in CPR, such as chest compressions, can cause bruising, break ribs, and puncture lungs. These risks should be considered when deciding whether to attempt CPR."
+    },
+    {
+        "q": "Can a DNACPR decision be changed?",
+        "i": "<noinput>",
+        "a": "Yes, a DNACPR decision can be changed. If you change your mind about your DNACPR decision, you need to inform your doctors and nurses so that the DNACPR form is marked as no longer valid."
+    },
+    {
+        "q": "Can a DNACPR decision be made for a group of people?",
+        "i": "<noinput>",
+        "a": "No, DNACPR decisions should be made on

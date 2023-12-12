@@ -1,0 +1,50 @@
+[
+    {
+        "q": "What causes a macular hole?",
+        "i": "<noinput>",
+        "a": "The exact cause of macular holes is unknown, but they are more common in older individuals and can be associated with conditions such as vitreomacular traction and retinal detachment."
+    },
+    {
+        "q": "What are the treatment options for a macular hole?",
+        "i": "<noinput>",
+        "a": "The main treatment for a macular hole is surgery, typically a vitrectomy. In some cases, an ocriplasmin injection may also be used to treat vitreomacular traction-induced macular holes."
+    },
+    {
+        "q": "What does vitrectomy surgery involve?",
+        "i": "<noinput>",
+        "a": "Vitrectomy surgery for a macular hole involves removing the vitreous jelly in the eye, peeling off the inner limiting membrane of the retina, and filling the eye with a temporary gas bubble to help close the hole."
+    },
+    {
+        "q": "How successful is macular hole surgery?",
+        "i": "<noinput>",
+        "a": "The success rate of macular hole surgery varies depending on the duration of the hole. Generally, if the hole has been present for less than 6 months, there is about a 90% chance of successful closure."
+    },
+    {
+        "q": "What are the complications of macular hole surgery?",
+        "i": "<noinput>",
+        "a": "Possible complications of macular hole surgery include failure to close the hole, development of cataracts, retinal detachment, bleeding, infection, and increased pressure within the eye."
+    },
+    {
+        "q": "Can I travel after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "It is important to avoid flying or traveling to high altitudes while the gas bubble from the surgery is still present in the eye, as it can cause high pressure and vision loss."
+    },
+    {
+        "q": "When can I expect to drive again after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "It is generally advised to wait 6 to 8 weeks after surgery before driving, as long as the gas bubble in the eye has completely resolved and vision has improved."
+    },
+    {
+        "q": "How much time should I take off work after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "The amount of time needed off work after macular hole surgery varies depending on the individual's job and recovery speed. It is best to discuss this with your surgeon."
+    },
+    {
+        "q": "What is the difference between a macular hole and age-related macular degeneration (AMD)?",
+        "i": "<noinput>",
+        "a": "A macular hole is a small gap in the macula of the retina, while age-related macular degeneration (AMD) is a gradual loss of central vision. Although they both affect the macula, they are different conditions with different causes."
+    },
+    {
+        "q": "Can a macular hole develop in the other eye?",
+        "i": "<noinput>",
+        "a": "There is a risk of developing a macular hole in the other eye, although the likelihood varies from person

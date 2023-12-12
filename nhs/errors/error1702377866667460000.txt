@@ -1,0 +1,50 @@
+[
+    {
+        "q": "What are the symptoms of balanitis?",
+        "i": "<noinput>",
+        "a": "Symptoms of balanitis include swelling, itching, soreness, redness of the penis head, pain during urination, discharge, bleeding, an unpleasant smell, and difficulty pulling back the foreskin."
+    },
+    {
+        "q": "When should I see a doctor for balanitis?",
+        "i": "<noinput>",
+        "a": "You should see a GP if you or your child have symptoms of balanitis, such as swelling, itching, soreness, or redness of the penis head. Adults can also visit a sexual health clinic for assessment."
+    },
+    {
+        "q": "What happens during a balanitis appointment?",
+        "i": "<noinput>",
+        "a": "During a balanitis appointment, a doctor or nurse will examine the penis, ask questions about your symptoms, and may suggest a blood test or swab to check for infections or underlying conditions."
+    },
+    {
+        "q": "How is balanitis treated?",
+        "i": "<noinput>",
+        "a": "The treatment for balanitis depends on the cause. It may include prescription of a mild steroid cream, antifungal cream, antibiotics, or in some cases, circumcision if other treatments do not work."
+    },
+    {
+        "q": "What can I do to help with balanitis?",
+        "i": "If you have balanitis",
+        "a": "If you have balanitis, you can wash your penis daily with water or an emollient, gently pull back the foreskin and wash the area with warm water, and avoid using soap or shower gel. For children with balanitis, gently wash their penis daily with warm water, change their nappies often, and avoid using soap or baby wipes."
+    },
+    {
+        "q": "What are the causes of balanitis?",
+        "i": "<noinput>",
+        "a": "The causes of balanitis include improper penis hygiene, tight foreskin, thrush, sexually transmitted infections (STIs), irritants like soap or condoms, and diabetes."
+    },
+    {
+        "q": "Can a sexually transmitted infection cause balanitis?",
+        "i": "<noinput>",
+        "a": "Yes, a sexually transmitted infection such as gonorrhoea or chlamydia can cause balanitis."
+    },
+    {
+        "q": "Should I visit a sexual health clinic for balanitis?",
+        "i": "<noinput>",
+        "a": "Yes, you can visit a sexual health clinic for assessment and treatment of balanitis."
+    },
+    {
+        "q": "What should I do if balanitis keeps recurring?",
+        "i": "<noinput>",
+        "a": "If balanitis keeps recurring and medication has not helped, circumcision (surgical removal of the foreskin) may be considered."
+    },
+    {
+        "q": "How should I wash my penis to prevent balanitis?",
+        "i": "<noinput>",
+        "a": "To prevent balanitis, you should wash your penis every day using only water or an emollient, gently pull back the foreskin and wash with warm water, and avoid using soap or shower gel.

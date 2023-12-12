@@ -1,0 +1,18 @@
+[
+    {
+        "q": "What should I do if someone is unconscious and not breathing?",
+        "i": "<noinput>",
+        "a": "If someone is unconscious and not breathing, call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+    },
+    {
+        "q": "How should I treat a bleeding wound?",
+        "i": "If someone is bleeding heavily, first dial 999 and ask for an ambulance. Then, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops. Finally, bandage the wound firmly with a clean dressing or soft material.",
+        "a": "To treat a bleeding wound, apply pressure to the wound until the bleeding stops, and then bandage it firmly with a clean dressing or soft material."
+    },
+    {
+        "q": "What should I do if someone has a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes. Call 999 if needed. Remove any clothing or jewellery before swelling begins, and cover the burn loosely with cling film or a clean dressing. Do not apply creams, lotions, or sprays to the burn.",
+        "a": "To treat a burn or scald, cool the burn with cool running water for at least 20 minutes. Remove any clothing or jewellery, and cover the burn loosely with cling film or a clean dressing. Do not apply creams, lotions, or sprays to the burn."
+    },
+    {
+        "q": "What should I do if someone is choking

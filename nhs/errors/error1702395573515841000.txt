@@ -1,0 +1,30 @@
+[
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "<noinput>",
+        "a": "Call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+    },
+    {
+        "q": "How should you treat a person who is bleeding heavily?",
+        "i": "<noinput>",
+        "a": "Apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops."
+    },
+    {
+        "q": "What should you do if someone has a burn or scald?",
+        "i": "<noinput>",
+        "a": "Cool the burn with cool running water for at least 20 minutes and seek medical help if needed."
+    },
+    {
+        "q": "How should you treat a chemical burn?",
+        "i": "<noinput>",
+        "a": "Remove any affected clothing, rinse the burn with cool running water for at least 20 minutes, and call 999 for immediate medical help."
+    },
+    {
+        "q": "What steps should you take if someone is choking?",
+        "i": "<noinput>",
+        "a": "Encourage them to cough and try to clear the blockage. If choking is severe, perform back blows and abdominal thrusts until help arrives."
+    },
+    {
+        "q": "What should you do if someone is drowning?",
+        "i": "<noinput>",
+        "a": "Do not enter the water unless it's safe to do so. Once the person is on land, check if they're breathing and call for medical help if

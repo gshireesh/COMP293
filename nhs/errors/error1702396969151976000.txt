@@ -1,0 +1,30 @@
+[
+    {
+        "q": "What are the steps to take when someone is injured?",
+        "i": "<noinput>",
+        "a": "First, check for any danger and make the situation safe. Then, if necessary, call 999 for an ambulance. Finally, provide basic first aid."
+    },
+    {
+        "q": "What should you do if someone is unconscious but breathing?",
+        "i": "<noinput>",
+        "a": "Place them in the recovery position until help arrives and keep them under observation to ensure they continue to breathe normally."
+    },
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "<noinput>",
+        "a": "Call 999 immediately and start cardiopulmonary resuscitation (CPR)."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "<noinput>",
+        "a": "First, dial 999 for an ambulance. Then, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops. Finally, bandage the wound firmly."
+    },
+    {
+        "q": "How should you treat a burn or scald?",
+        "i": "<noinput>",
+        "a": "Cool the burn with cool running water for at least 20 minutes, remove any clothing or jewellery, and cover the burn loosely with cling film or a clean dressing."
+    },
+    {
+        "q": "What should you do if someone is choking?",
+        "i": "<noinput>",
+        "a": "For mild choking,

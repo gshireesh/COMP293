@@ -1,0 +1,29 @@
+[
+    {
+        "q": "What should you do if you come across someone who is unconscious and breathing?",
+        "i": "<noinput>",
+        "a": "If someone is unconscious and breathing, place them in the recovery position until help arrives and keep them under observation."
+    },
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "<noinput>",
+        "a": "If someone is unconscious and not breathing, call 999 and start cardiopulmonary resuscitation (CPR) immediately."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "<noinput>",
+        "a": "If someone is bleeding heavily, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops and seek medical help."
+    },
+    {
+        "q": "How should you treat a burn or scald?",
+        "i": "<noinput>",
+        "a": "To treat a burn or scald, cool the burn with cool running water for at least 20 minutes, call 999 if needed, and cover the burn loosely with cling film or a clean dressing."
+    },
+    {
+        "q": "What should you do if someone has swallowed a poisonous substance?",
+        "i": "<noinput>",
+        "a": "If someone has swallowed a poisonous substance, call 999 for immediate medical help, do not try to make them vomit, and stay with them until help arrives."
+    },
+    {
+        "q": "What are the signs of shock?",
+        "i": "<

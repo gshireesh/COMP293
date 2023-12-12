@@ -1,0 +1,15 @@
+[
+    {
+        "q": "What should you do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe. Give an example of a situation where someone is injured.",
+        "a": "If someone is injured, you should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe. For example, if someone falls and injures their leg, ensure there are no other hazards nearby and help them to a safe location."
+    },
+    {
+        "q": "What should you do if someone is unconscious and breathing?",
+        "i": "If someone is unconscious but breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives. Give an example of a situation where someone is unconscious but breathing.",
+        "a": "If someone is unconscious but breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives. For example, if someone faints but is still breathing, gently roll them onto their side and support their head to ensure they maintain an open airway."
+    },
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "If someone is unconscious and not breathing, call 999 and start cardiopulmonary resuscitation (CPR) straight away. Give an example of a situation where someone is unconscious and not breathing.",
+        "a": "If someone is unconscious and not breathing,

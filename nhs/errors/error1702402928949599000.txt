@@ -1,0 +1,35 @@
+[
+    {
+        "q": "What should you do if you've been stung and can't get help?",
+        "i": "<noinput>",
+        "a": "If you can't get help, rinse the affected area with seawater, remove any spines, soak the area in warm water, and take painkillers."
+    },
+    {
+        "q": "What should you do if you've been stung and have severe pain that doesn't go away?",
+        "i": "<noinput>",
+        "a": "If you have severe pain that doesn't go away, go to a minor injuries unit for treatment."
+    },
+    {
+        "q": "What should you do if you've been stung on your face or genitals?",
+        "i": "<noinput>",
+        "a": "If you've been stung on your face or genitals, go to a minor injuries unit for treatment."
+    },
+    {
+        "q": "What should you do if you've been stung by a stingray?",
+        "i": "<noinput>",
+        "a": "If you've been stung by a stingray, go to a minor injuries unit for treatment."
+    },
+    {
+        "q": "What are the main symptoms of sea creature stings?",
+        "i": "<noinput>",
+        "a": "The main symptoms of sea creature stings are intense pain and an itchy rash."
+    },
+    {
+        "q": "Can jellyfish and Portuguese man-of-war stings cause welts on the skin?",
+        "i": "<noinput>",
+        "a": "Yes, jellyfish and Portuguese man-of-war stings can cause raised circular areas on the skin."
+    },
+    {
+        "q": "What can you do to avoid being stung by sea creatures?",
+        "i": "<noinput>",
+        "a": "To avoid being stung, look out for beach warning signs, consider wearing a wetsuit

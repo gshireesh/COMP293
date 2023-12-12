@@ -1,0 +1,34 @@
+[
+  {
+    "q": "What should you do if you've been stung by a sea creature?",
+    "i": "<noinput>",
+    "a": "If possible, ask a lifeguard or someone with first aid training for help. If help is not available, rinse the affected area with seawater, remove any spines, soak the area in warm water, and take painkillers if needed."
+  },
+  {
+    "q": "What are the symptoms of sea creature stings?",
+    "i": "<noinput>",
+    "a": "The main symptoms are intense pain and an itchy rash. Jellyfish and Portuguese man-of-war stings can also cause raised circular areas on the skin."
+  },
+  {
+    "q": "How can you avoid getting stung by sea creatures?",
+    "i": "<noinput>",
+    "a": "Look out for beach warning signs, consider wearing a wetsuit, wear waterproof shoes or sandals in rocky areas, and scuff or stamp your feet when walking in shallow water."
+  },
+  {
+    "q": "What are some UK sea creatures that sting?",
+    "i": "<noinput>",
+    "a": "Some examples include jellyfish, Portuguese man-of-war, weever fish, sea urchins, and stingrays."
+  },
+  {
+    "q": "What immediate action should you take if you've been stung and have difficulty breathing?",
+    "i": "<noinput>",
+    "a": "You should go to the nearest A&E department or call 999."
+  },
+  {
+    "q": "How can you remove spines from the skin if you've been stung?",
+    "i": "<noinput>",
+    "a": "You can use tweezers or the edge of a bank card to remove the spines."
+  },
+  {
+    "q": "Can you use vinegar to treat a sea creature sting?",
+    "i": "<noinput>",

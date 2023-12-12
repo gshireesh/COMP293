@@ -1,0 +1,28 @@
+[
+    {
+        "q": "What should I do if someone is injured?",
+        "i": "<noinput>",
+        "a": "If someone is injured, first check for any danger and make the situation safe. If necessary, call 999 for an ambulance. Then, carry out basic first aid."
+    },
+    {
+        "q": "What should I do if someone is unconscious and breathing?",
+        "i": "<noinput>",
+        "a": "If someone is unconscious but still breathing, place them in the recovery position until help arrives. Keep them under observation to ensure they continue to breathe normally."
+    },
+    {
+        "q": "What should I do if someone is unconscious and not breathing?",
+        "i": "<noinput>",
+        "a": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) immediately."
+    },
+    {
+        "q": "What should I do if someone is bleeding heavily?",
+        "i": "<noinput>",
+        "a": "If someone is bleeding heavily, call 999 for an ambulance. Apply and maintain pressure on the wound with a clean pad or dressing until the bleeding stops. Bandage the wound firmly."
+    },
+    {
+        "q": "How should I treat a burn or scald?",
+        "i": "<noinput>",
+        "a": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes. Call 999 or seek medical help if needed. Do not apply creams or lotions to the burn."
+    },
+    {
+        "q":

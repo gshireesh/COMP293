@@ -1,0 +1,28 @@
+[
+    {
+        "q": "What should you do if someone is injured?",
+        "i": "<noinput>",
+        "a": "First, check that you and the injured person aren't in any danger. If it's safe, call 999 for an ambulance. Then, carry out basic first aid."
+    },
+    {
+        "q": "How should you treat someone who is unconscious and breathing?",
+        "i": "<noinput>",
+        "a": "If someone is unconscious but breathing, place them in the recovery position until help arrives. Keep them under observation to ensure they continue to breathe normally."
+    },
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "<noinput>",
+        "a": "If someone is not breathing normally, immediately call 999 and start cardiopulmonary resuscitation (CPR)."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "<noinput>",
+        "a": "First, dial 999 for an ambulance. Apply and maintain pressure to the wound with a clean pad or dressing. If bleeding persists, apply additional pads and bandage firmly."
+    },
+    {
+        "q": "How should you treat a burn or scald?",
+        "i": "<noinput>",
+        "a": "Cool the burn with cool running water for at least 20 minutes. Do not apply creams or lotions. Cover the burn loosely with cling film or a clean dressing."
+    },
+    {
+        "q": "What should you do in the case of choking in adults

@@ -1,0 +1,22 @@
+,q,i,a
+0,What is the purpose of this medical procedure?,<noinput>,This medical procedure is performed to [specific purpose].
+1,Why is this medical procedure done?,<noinput>,This medical procedure is done to [reason/purpose].
+2,What are the alternative treatments or procedures?,<noinput>,"There are several alternative treatments or procedures available, such as [specific alternatives]. It is recommended to discuss with your healthcare provider to determine the best option for you."
+3,How should one prepare for this medical procedure?,<noinput>,"To prepare for this medical procedure, you may need to [specific preparation steps]. It is important to follow the instructions provided by your healthcare provider."
+4,How is this medical procedure performed?,<noinput>,This medical procedure is typically performed by [specific method/approach]. Your healthcare provider will provide more specific details based on your individual case.
+5,What is the recovery process like after this medical procedure?,<noinput>,The recovery process after this medical procedure may involve [specific recovery steps]. It is important to follow the post-procedure instructions provided by your healthcare provider.
+6,What are the potential complications associated with this medical procedure?,<noinput>,Some potential complications associated with this medical procedure include [specific complications]. Your healthcare provider will discuss the risks and benefits with you prior to the procedure.
+0,What is the purpose of this medical procedure?,<noinput>,<answer>
+1,Why is this medical procedure performed?,<noinput>,<answer>
+2,Are there any alternative treatments available?,<noinput>,<answer>
+3,How should one prepare for this medical procedure?,<noinput>,<answer>
+4,"Step by step, how is this medical procedure performed?",<noinput>,<answer>
+5,What is the typical recovery process for this medical procedure?,<noinput>,<answer>
+6,Are there any complications associated with this medical procedure?,<noinput>,<answer>
+0,What is the purpose of the procedure?,<noinput>,The procedure is performed to [insert purpose here].
+1,Why is this procedure done?,<noinput>,This procedure is performed to [insert reason here].
+2,What are the alternatives to this procedure?,<noinput>,"There are several alternatives to this procedure, including [insert alternatives here]."
+3,How should I prepare for this procedure?,<noinput>,"To prepare for this procedure, you should [insert preparation steps here]."
+4,What are the steps involved in this procedure?,<noinput>,"The procedure involves several steps, including [insert steps here]."
+5,What is the recovery process after this procedure?,<noinput>,"After the procedure, the recovery process involves [insert recovery steps here]."
+6,What are the possible complications of this procedure?,<noinput>,"Although rare, there are potential complications associated with this procedure, such as [insert complications here]."

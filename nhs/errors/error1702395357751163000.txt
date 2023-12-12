@@ -1,0 +1,24 @@
+[
+{
+"q": "What is the purpose of calling 999 in an emergency?",
+"i": "<noinput>",
+"a": "Calling 999 in an emergency is necessary to request the appropriate medical help and provide essential information such as the person's condition, location, and your contact details."
+},
+{
+"q": "What should you do if someone is injured?",
+"i": "If someone is injured, you should first check for any danger and make the situation safe. If necessary, dial 999 for an ambulance. Then, carry out basic first aid.",
+"a": "If someone is injured, you should first check for any danger and make the situation safe. If necessary, dial 999 for an ambulance. Then, carry out basic first aid."
+},
+{
+"q": "How do you treat an unconscious person who is breathing?",
+"i": "If someone is unconscious but breathing and has no other injuries that would stop them from being moved, place them in the recovery position until help arrives.",
+"a": "If someone is unconscious but breathing and has no other injuries that would stop them from being moved, place them in the recovery position until help arrives."
+},
+{
+"q": "What should you do if someone is unconscious and not breathing?",
+"i": "If someone is unconscious and not breathing, call 999 immediately and start cardiopulmonary resuscitation (CPR) right away.",
+"a": "If someone is unconscious and not breathing, call 999 immediately and start cardiopulmonary resuscitation (CPR) right away."
+},
+{
+"q": "How should you treat bleeding that is heavy?",
+"i": "If someone is

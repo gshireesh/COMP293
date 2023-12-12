@@ -1,0 +1,24 @@
+[
+    {
+        "q": "What should you do if someone is unconscious but breathing?",
+        "i": "If someone is unconscious but breathing, place them in the recovery position until help arrives.",
+        "a": "The person should be placed in the recovery position until medical help arrives."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "If someone is bleeding heavily, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops.",
+        "a": "Apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops."
+    },
+    {
+        "q": "What should you do if someone has a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes.",
+        "a": "Cool the burn as quickly as possible with cool running water for at least 20 minutes."
+    },
+    {
+        "q": "What should you do for chemical burns?",
+        "i": "For chemical burns, wear protective gloves, remove any affected clothing, and rinse the burn with cool running water for at least 20 minutes.",
+        "a": "In the case of chemical burns, wear protective gloves, remove any affected clothing, and rinse the burn with cool running water for at least 20 minutes."
+    },
+    {
+        "q": "What should you do if someone is choking?",
+        "i": "If someone is choking, encourage them to cough to try to clear the blockage. If coughing doesn't

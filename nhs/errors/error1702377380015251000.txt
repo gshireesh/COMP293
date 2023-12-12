@@ -1,0 +1,39 @@
+1. What is the purpose of a post-mortem examination and who carries them out?
+- Input: <noinput>
+- Output: A post-mortem examination, also known as an autopsy, is carried out by pathologists (doctors who specialize in understanding the nature and causes of disease). The aim is to determine the cause of death.
+
+2. When are post-mortems carried out and why?
+- Input: <noinput>
+- Output: Post-mortems are carried out when the cause of death is unknown or following a sudden, violent, or unexpected death. They can also be requested by hospital doctors to find out more about an illness or the cause of death, or for further medical research.
+
+3. Who is responsible for requesting a post-mortem examination?
+- Input: <noinput>
+- Output: A coroner can request a post-mortem if the cause of death is unknown or if the death is sudden, violent, or suspicious. Hospital doctors can also request them for medical or research purposes.
+
+4. Can a post-mortem be requested by a family member?
+- Input: <noinput>
+- Output: Yes, a family member can request a post-mortem to find out more about the cause of death. However, consent is required.
+
+5. What happens during a post-mortem examination?
+- Input: <noinput>
+- Output: During a post-mortem, the deceased person's body is opened, and the organs are removed for examination. The pathologist examines the organs to determine the cause of death.
+
+6. Can the family view the body after a post-mortem examination?
+- Input: <noinput>
+- Output: Yes, if desired, the family can usually view the body after the post-mortem examination.
+
+7. What happens after a post-mortem examination?
+- Input: <noinput>
+- Output: The pathologist writes a report of the findings. If the post-mortem was requested by a coroner, the cause of death will be determined and communicated to the family. If requested by a hospital doctor, the results can be obtained from the hospital.
+
+8. Who regulates and licenses premises where post-mortems are carried out?
+- Input: <noinput>
+- Output: The Human Tissue Authority (HTA) regulates and licenses premises where post-mortems are carried out.
+
+9. Where can bereavement support be obtained?
+- Input: <noinput>
+- Output: Bereavement support can be obtained through your GP, local bereavement services, or organizations like Cruse, which offers helpline services and local centers.
+
+10. How can understanding the cause of a loved one's death help with coping and bereavement?
+- Input: <noinput>
+- Output: Understanding the cause of a loved one's death can help with the grieving process and coming to terms with the loss. Sharing your feelings and seeking support from family, friends, or bereavement services can also be beneficial.

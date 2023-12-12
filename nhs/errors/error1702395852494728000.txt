@@ -1,0 +1,25 @@
+[
+    {
+        "q" : "What should you do if someone is bleeding heavily?",
+        "i" : "If someone is bleeding heavily, you should...",
+        "a" : "Apply and maintain pressure to the wound with your gloved hand, using a clean pad or dressing if possible. Continue to apply pressure until the bleeding stops."
+    },
+    {
+        "q" : "What should you do if someone is choking?",
+        "i" : "If someone is choking, you should...",
+        "a" : "Encourage the person to cough to try to clear the blockage. If that doesn't work, start back blows."
+    },
+    {
+        "q" : "How should you treat a burn or scald?",
+        "i" : "If someone has a burn or scald, you should...",
+        "a" : "Cool the burn as quickly as possible with cool running water for at least 20 minutes. Call 999 or seek medical help, if needed."
+    },
+    {
+        "q" : "What should you do if someone is having a heart attack?",
+        "i" : "If you think someone is having a heart attack, you should...",
+        "a" : "Call 999 and move them into a comfortable sitting position. Reassure them and ask them to take a 300mg aspirin tablet to chew slowly, unless they shouldn't take aspirin."
+    },
+    {
+        "q" : "What should you do if someone has had an electric shock?",
+        "i" : "If someone has had an electric shock, you should...",
+        "a" : "

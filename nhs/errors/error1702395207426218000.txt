@@ -1,0 +1,25 @@
+[
+  {
+    "q": "What should I do if someone is unconscious and not breathing?",
+    "i": "If someone is unconscious and not breathing",
+    "a": "Call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+  },
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily",
+    "a": "First, dial 999 and ask for an ambulance as soon as possible. Apply and maintain pressure to the wound and use a clean dressing or any clean, soft material to bandage the wound firmly."
+  },
+  {
+    "q": "What should I do if someone has a burn or scald?",
+    "i": "If someone has a burn or scald",
+    "a": "Cool the burn as quickly as possible with cool running water for at least 20 minutes. Call 999 or seek medical help if needed. Avoid applying creams, lotions, or sprays to the burn."
+  },
+  {
+    "q": "How should I respond to choking in adults?",
+    "i": "If the airway is only partly blocked and choking is mild",
+    "a": "Encourage the person to cough or spit out the object. Do not put your fingers in their mouth. If choking is severe, perform back blows and abdominal thrusts. Call 999 if the airway remains blocked."
+  },
+  {
+    "q": "What should I do if someone is in difficulty in water?",
+    "i": "If someone is in difficulty in water",
+    "a": "

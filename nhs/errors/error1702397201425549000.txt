@@ -1,0 +1,15 @@
+[
+  {
+    "q": "What should I do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimise the effects of shock.",
+    "a": "First, dial 999 and ask for an ambulance as soon as possible. If you have disposable gloves, use them to reduce the risk of any infection being passed on. Check that there's nothing embedded in the wound. If there is, take care not to press down on the object. Instead, press firmly on either side of the object and build up padding around it before bandaging to avoid putting pressure on the object itself."
+  },
+  {
+    "q": "What should I do if someone has a burn or scald?",
+    "i": "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved.",
+    "a": "Call 999 or seek medical help, if needed. While cooling the burn, and before the area begins to swell, carefully remove any clothing or jewellery, unless it's attached to the skin. If you're cooling a large burnt area, particularly in babies, children and elderly people, be aware that it may cause hypothermia."
+  },
+  {
+    "q": "What should I do if someone has swallowed a poisonous substance?",
+    "i": "If you think someone has swallowed a poisonous substance, call 999 to get immediate medical help and advice.",
+    "a": "Do not give the person anything to eat or drink unless a healthcare professional advises you to.

@@ -1,0 +1,52 @@
+[
+{
+"q": "What is mallet finger and how is it treated?",
+"i": "<noinput>",
+"a": "Mallet finger is an injury to the end of the finger, causing the tip to bend. It is treated by keeping the finger straight using a splint. Additionally, the finger and splint should be cleaned daily."
+},
+{
+"q": "How can I check if I have mallet finger?",
+"i": "If you suspect you have mallet finger, try to straighten your finger. If the tip of your finger remains bent and you experience pain, tenderness, swelling, or bruising, it could be a sign of mallet finger."
+"a": "To check if you have mallet finger, try to straighten your finger. If the tip remains bent and you experience pain, tenderness, swelling, or bruising, it could be mallet finger."
+},
+{
+"q": "What can I do while waiting for medical help for mallet finger?",
+"i": "<noinput>",
+"a": "While waiting for medical help, you can lift your hand up to reduce swelling, take painkillers to help ease the pain, and remove any rings from the affected finger."
+},
+{
+"q": "How is mallet finger treated?",
+"i": "<noinput>",
+"a": "Mallet finger is treated by keeping the finger straight using a splint. The splint should be worn for up to 8 weeks, only removing it to clean the finger and splint. In some cases, surgery may be required."
+},
+{
+"q": "How should I clean my finger and splint when treating mallet finger?",
+"i": "<noinput>",
+"a": "To clean your finger and splint, rest your finger flat on a table and slide off the splint. Wash the finger and splint with soap and water, then dry them before sliding the splint back into place and securing it with new tape."
+},
+{
+"q": "What is the recovery process for mallet finger?",
+"i": "<noinput>",
+"a": "Recovering from mallet finger can take several months. Tenderness, swelling, and redness are common during the first few months. Avoid bending your finger and refrain from sports or exercises involving your hands. Hand exercises may be recommended by your healthcare provider."
+},
+{
+"q": "How long does it take for a finger with mallet finger to heal?",
+"i": "<noinput>",
+"a": "It can take several months for a finger with mallet finger to fully heal and return to normal. The duration of healing may vary depending on individual factors."
+},
+{
+"q": "What are the symptoms of mallet finger?",
+"i": "<noinput>",
+"a": "Symptoms of mallet finger include the tip of the finger being bent, pain, tenderness, swelling, and bruising. If you experience these symptoms, it's important to seek medical attention."
+},
+{
+"q": "Can I exercise or do sports while recovering from mallet finger?",
+"i": "<noinput>",
+"a": "It is advised not to do sports or exercises involving your hands while recovering from mallet finger. This is important for proper healing and to avoid further injury."
+},
+{
+"q": "When should I do hand exercises after getting mallet finger?",
+"i": "<noinput>",
+"a": "Around 6 to 8 weeks after the mallet finger injury, your healthcare provider may recommend starting hand exercises. These exercises can help with the recovery process."
+}
+]

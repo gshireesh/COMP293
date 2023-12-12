@@ -1,0 +1,19 @@
+[
+    {
+        "q": "What should you do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger, and, if possible, make the situation safe.",
+        "a": "If someone is injured, you should first check that you and the injured person aren't in any danger."
+    },
+    {
+        "q": "How should you treat someone who is bleeding heavily?",
+        "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. Apply and maintain pressure to the wound with your gloved hand, using a clean pad or dressing if possible.",
+        "a": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock. Apply and maintain pressure to the wound with your gloved hand, using a clean pad or dressing if possible."
+    },
+    {
+        "q": "What should you do if you suspect someone is experiencing anaphylactic shock?",
+        "i": "If you suspect someone is experiencing anaphylactic shock, call 999 immediately. Check if the person is carrying any medication. You can either help the person administer their medication or, if you're trained to do so, give it to them yourself.",
+        "a": "If you suspect someone is experiencing anaphylactic shock, call 999 immediately and check if the person is carrying any medication."
+    },
+    {
+        "q": "How should you treat a burn or scald?",
+        "i": "If someone has a burn or sc

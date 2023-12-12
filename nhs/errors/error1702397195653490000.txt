@@ -1,0 +1,17 @@
+[
+  {
+    "q": "What are the first signs of hand, foot and mouth disease?",
+    "i": "<noinput>",
+    "a": "The first signs of hand, foot and mouth disease can include a sore throat, high temperature, and loss of appetite."
+  },
+  {
+    "q": "What are the symptoms of hand, foot and mouth disease?",
+    "i": "<noinput>",
+    "a": "The symptoms of hand, foot and mouth disease can include mouth ulcers, a raised rash of spots on the hands and feet (and sometimes thighs and bottom), and blisters that can be painful."
+  },
+  {
+    "q": "How long does it take for hand, foot and mouth disease to get better?",
+    "i": "<noinput>",
+    "a": "Hand, foot and mouth disease usually gets better on its own in 7 to 10 days."
+  },
+  {

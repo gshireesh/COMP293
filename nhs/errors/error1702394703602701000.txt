@@ -1,0 +1,52 @@
+[
+    {
+        "q" : "What are the symptoms of postural tachycardia syndrome (PoTS)?",
+        "i" : "Symptoms of postural tachycardia syndrome (PoTS) include dizziness or light-headedness, fainting or almost fainting, noticeable heartbeats (heart palpitations), chest pain, shortness of breath, shaking and sweating. Other symptoms may also occur, such as problems with digestion, headaches, problems with sight, weakness and extreme tiredness, and problems with thinking and memory.",
+        "a" : "The symptoms of postural tachycardia syndrome (PoTS) include dizziness, fainting, heart palpitations, chest pain, shortness of breath, shaking, sweating, digestive problems, headaches, problems with sight, weakness, fatigue, and cognitive issues."
+    },
+    {
+        "q" : "What can worsen the symptoms of postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "Certain factors can worsen the symptoms of postural tachycardia syndrome (PoTS) including feeling hot, consuming refined carbohydrates, not drinking enough fluids, drinking alcohol, resting too much, exercising, and being on your period."
+    },
+    {
+        "q" : "How is postural tachycardia syndrome (PoTS) diagnosed?",
+        "i" : "If you have symptoms of postural tachycardia syndrome (PoTS), a GP may check your blood pressure and heart rate before and after you stand up. If there is suspicion, they will refer you to a specialist who may perform more tests including blood tests, urine tests, echocardiogram, ECG, and 24-hour blood pressure and heart rate monitoring."
+        "a" : "Postural tachycardia syndrome (PoTS) is diagnosed by checking blood pressure and heart rate changes upon standing, followed by additional tests such as blood tests, urine tests, and heart and blood pressure monitoring."
+    },
+    {
+        "q" : "What treatments are available for postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "The treatment for postural tachycardia syndrome (PoTS) involves making lifestyle changes, managing stress, and trying different medications such as beta blockers, steroids, and selective serotonin reuptake inhibitors (SSRIs)."
+    },
+    {
+        "q" : "What can I do to alleviate postural tachycardia syndrome (PoTS) symptoms?",
+        "i" : "If you have postural tachycardia syndrome (PoTS), you can try lying down and raising your legs when you feel faint or dizzy. If lying down is not possible, you can try crossing your legs, rocking up and down on your toes, clenching your buttocks and tummy muscles, clenching your fists. Making lifestyle changes such as avoiding triggers, staying hydrated, engaging in gentle exercise, elevating your bed, and wearing support tights can also help alleviate symptoms."
+        "a" : "To alleviate postural tachycardia syndrome (PoTS) symptoms, you can try lying down with raised legs, crossing legs, rocking on toes, clenching muscles, and making lifestyle changes like avoiding triggers, staying hydrated, exercising, elevating bed, and wearing support tights."
+    },
+    {
+        "q" : "What are some lifestyle changes that can help with postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "Making lifestyle changes such as eating and drinking at regular times, managing stress, avoiding triggers, staying hydrated, engaging in gentle exercise, elevating the head of the bed, and wearing support tights may help with postural tachycardia syndrome (PoTS)."
+    },
+    {
+        "q" : "Should I avoid caffeine and alcohol if I have postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "It is advisable to avoid excessive caffeine and alcohol consumption if you have postural tachycardia syndrome (PoTS)."
+    },
+    {
+        "q" : "Where can I find more information about postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "You can find more information about postural tachycardia syndrome (PoTS) on the PoTS UK website or through STARS (Syncope Trust And Reflex anoxic Seizures)."
+    },
+    {
+        "q" : "What causes postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "The exact cause of postural tachycardia syndrome (PoTS) is unclear, but it can develop suddenly or gradually over time. Some people have mild symptoms, while for others it has a more significant impact on their daily lives. Certain factors can make the symptoms worse, such as feeling hot, certain foods, inadequate hydration, alcohol consumption, excessive rest, exercise, and being on your period."
+    },
+    {
+        "q" : "When to see a GP if I have symptoms of postural tachycardia syndrome (PoTS)?",
+        "i" : "<noinput>",
+        "a" : "If you experience symptoms of postural tachycardia syndrome (PoTS), it is recommended to see a GP for evaluation and appropriate guidance."
+    }
+]

@@ -1,0 +1,97 @@
+{
+    "name": "**",
+    "title": "Sr Software Engineer",
+    "phone_no": "**",
+    "email": "**",
+    "linked_in": "**",
+    "github": "**",
+    "place": "San Francisco, CA",
+    "environments": {
+        "0": "linux",
+        "1": "windows"
+    },
+    "fontend": {
+        "0": "Javascript",
+        "1": "Typescript",
+        "2": "Angular",
+        "3": "React",
+        "4": "D3"
+    },
+    "backend": {
+        "0": "Python",
+        "1": "Nodejs",
+        "2": "Java",
+        "3": "SQL",
+        "4": "Django",
+        "5": "Express",
+        "6": "GraphQl",
+        "7": "RabbitMq",
+        "8": "Kafka",
+        "9": "Redis"
+    },
+    "cloud_and_automation": {
+        "0": "AWS",
+        "1": "Azure",
+        "2": "GCP",
+        "3": "Docker",
+        "4": "Linux",
+        "5": "Kubernetes",
+        "6": "Terraform",
+        "7": "Ansible",
+        "8": "Jenkins"
+    },
+    "about": "<gpt>\n    generate a summary of 8-10 lines for the details in the json.\n    It should professional as if a 9 year software engineer would write\n</gpt>",
+    "education": {
+        "0": {
+            "degree": "Master of Science",
+            "department": "Computer Science",
+            "institution": "University of the pacific",
+            "location": "**"
+        },
+        "1": {
+            "degree": "Bachelor of Technology",
+            "department": "Computer Science and Engineering",
+            "institution": "National Institute of Technology",
+            "location": "**"
+        },
+        "2": {
+            "degree": "Secondary School",
+            "institution": "St Ann's School",
+            "location": "**"
+        }
+    },
+    "Interests": {
+        "0": "Family",
+        "1": "Math",
+        "2": "Thought experiments",
+        "3": "chess",
+        "4": "travelling",
+        "5": "movies"
+    },
+    "Experiences": {
+        "0": {
+            "company": "6Sense Insights",
+            "from": "Nov 21",
+            "to": "Aug 22",
+            "role": "Senior Software Engineer"
+        },
+        "1": {
+            "company": "Udaan",
+            "from": "Jun 19",
+            "to": "Aug 22",
+            "role": "Product Engineer"
+        },
+        "2": {
+            "company": "StartupByte",
+            "from": "Sep 16",
+            "to": "May 19",
+            "role": "Lead Full Stack Engineer"
+        },
+        "3": {
+            "company": "Factset Research Systems",
+            "from": "Jun 14",
+            "to": "Aug 16",
+            "role": "software engineer"
+        }
+    }
+}

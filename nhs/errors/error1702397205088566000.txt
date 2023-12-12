@@ -1,0 +1,19 @@
+[
+    {
+        "q": "How long does hand, foot and mouth disease usually last?",
+        "i": "<noinput>",
+        "a": "Hand, foot and mouth disease usually lasts for 7 to 10 days."
+    },
+    {
+        "q": "What are the symptoms of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The symptoms of hand, foot and mouth disease can include a sore throat, high temperature, mouth ulcers, and a rash of spots on the hands and feet."
+    },
+    {
+        "q": "Can hand, foot and mouth disease affect adults?",
+        "i": "<noinput>",
+        "a": "Yes, hand, foot and mouth disease can affect adults as well as children."
+    },
+    {
+        "q": "What can I do to relieve the symptoms of hand, foot and mouth disease?",
+        "i": "<

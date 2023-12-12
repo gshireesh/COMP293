@@ -1,0 +1,21 @@
+,q,i,a
+0,Check if it's sepsis,"A baby or young child has blue, grey, pale or blotchy skin. They also have a weak, high-pitched cry and are not responding like they normally do.",Immediate action required: Call 999 or go to A&E as these symptoms may indicate sepsis in a baby or young child.
+1,Check if it's sepsis,An adult or older child is acting confused and has difficulty breathing.,Immediate action required: Call 999 or go to A&E as these symptoms may indicate sepsis in an adult or older child.
+2,Urgent advice,I feel very unwell and have not had a pee all day.,Urgent advice: Call 111 now as feeling very unwell and not having a pee all day may be a sign of sepsis.
+3,Urgent advice,My child keeps vomiting and cannot keep any food or milk down.,Urgent advice: Call 111 now as persistent vomiting in a child may be a sign of sepsis.
+4,Urgent advice,I have swelling and pain around a cut or wound.,Urgent advice: Call 111 now as swelling and pain around a cut or wound may indicate sepsis.
+5,Urgent advice,I have a very high temperature and feel hot to the touch.,Urgent advice: Call 111 now as a very high temperature and feeling hot to the touch may be a sign of sepsis.
+6,Urgent advice,I feel very unwell and not sure if it's sepsis.,Urgent advice: Call 111 now to seek medical guidance and determine if further actions are needed.
+7,What is sepsis?,<noinput>,"Sepsis is a life-threatening reaction to an infection where the immune system overreacts, causing harm to the body's own tissues and organs. It is also known as septicaemia or blood poisoning."
+0,What are the symptoms of sepsis in babies and young children?,<noinput>,"Symptoms of sepsis in babies and young children include blue, grey, pale or blotchy skin, rash that doesn't fade under pressure, difficulty breathing, weak cry, and altered behavior."
+1,What are the symptoms of sepsis in adults or older children?,<noinput>,"Symptoms of sepsis in adults or older children include confusion, slurred speech, blue or pale skin, rash that doesn't fade under pressure, and difficulty breathing."
+2,When should I call 999 or go to A&E for sepsis?,<noinput>,"Immediate action is required to call 999 or go to A&E if you or someone you know has symptoms of sepsis. This includes blue or pale skin, difficulty breathing, confusion, or a rash that doesn't fade under pressure."
+3,What should I do if I'm not sure if it's sepsis?,<noinput>,"If you're not sure if it's sepsis, it's still best to call 111. They can provide advice, arrange a phone call with a nurse or doctor, or call an ambulance if necessary."
+4,Can sepsis be caught from another person?,<noinput>,"No, sepsis cannot be caught from another person. It is a reaction to an infection that occurs within your own body."
+5,What is sepsis also known as?,<noinput>,Sepsis is also known as septicaemia or blood poisoning.
+6,What happens during sepsis?,<noinput>,"During sepsis, the immune system overreacts to an infection and starts damaging the body's own tissues and organs. It is a life-threatening reaction."
+7,Who is sepsis particularly hard to spot in?,<noinput>,"Sepsis can be especially hard to spot in babies and young children, people with dementia, people with a learning disability, and people who have difficulty communicating."
+8,Where can I find further information about sepsis for people with a learning disability and their carers?,<noinput>,"You can find further information about sepsis for people with a learning disability and their carers on NHS England's easy read information, as well as on YouTube videos by NHS Sherwood Forest Hospitals."
+9,Is sepsis life-threatening?,<noinput>,"Yes, sepsis is a life-threatening reaction to an infection. Immediate medical attention is necessary if sepsis is suspected."
+0,Check if it's sepsis,"I have a high fever, difficulty breathing, and a rash that does not fade when I roll a glass over it.","Based on your symptoms of a high fever, difficulty breathing, and a non-fading rash, it is important to seek immediate medical attention as these could be signs of sepsis. Call 999 or go to A&E."
+1,What is sepsis?,<noinput>,Sepsis is a life-threatening reaction to an infection where the immune system overreacts and damages the body's own tissues and organs. It is sometimes referred to as septicaemia or blood poisoning. It cannot be transmitted from person to person.

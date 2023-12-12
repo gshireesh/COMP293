@@ -1,0 +1,18 @@
+[
+{
+"q" : "What should I do if I come across someone who is bleeding heavily?",
+"i" : "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimise the effects of shock. First, dial 999 and ask for an ambulance as soon as possible. If you have disposable gloves, use them to reduce the risk of any infection being passed on.",
+"a" : "If someone is bleeding heavily, you should first dial 999 for an ambulance. Use disposable gloves if available to reduce the risk of infection."
+},
+{
+"q" : "How should I treat a burn or scald?",
+"i" : "If someone has a burn or scald, cool the burn as quickly as possible with cool running water for at least 20 minutes, or until the pain is relieved. Call 999 or seek medical help if needed.",
+"a" : "To treat a burn or scald, you should cool the burn with cool running water for at least 20 minutes. Seek medical help if needed."
+},
+{
+"q" : "What should I do if someone is choking?",
+"i" : "If the person is choking, encourage them to cough to try to clear the blockage or try back blows. If choking is severe and back blows don't work, perform abdominal thrusts. Call 999 for an ambulance if the airway is still blocked.",
+"a" : "If someone is choking, encourage them to cough or try back blows. Perform abdominal thrusts if the choking is severe. Call 999 if the airway is still blocked."
+},
+{
+"q" : "What should I do if someone

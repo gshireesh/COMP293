@@ -1,0 +1,49 @@
+{
+    "instructions": [
+        {
+            "q": "What should I do if I have blood in my urine?",
+            "i": "I recently noticed blood in my urine.",
+            "a": "You should ask for an urgent GP appointment or get help from NHS 111. Blood in urine should be checked out to rule out any serious causes."
+        },
+        {
+            "q": "What can be the possible causes of blood in urine?",
+            "i": "<noinput>",
+            "a": "Blood in urine can come from anywhere in the urinary tract, including the bladder, kidneys, or urethra. It is important to see a GP for proper diagnosis and to determine the underlying cause."
+        },
+        {
+            "q": "What symptoms should I look out for in addition to blood in urine?",
+            "i": "<noinput>",
+            "a": "If you have burning pain while peeing, frequent urination, cloudy pee, high temperature, or pain in the sides or lower back, it may indicate a urinary tract infection (UTI). It's best to consult a GP for a proper evaluation."
+        },
+        {
+            "q": "Can blood in urine be a sign of cancer?",
+            "i": "<noinput>",
+            "a": "Yes, blood in urine can be a sign of cancer. It is important to get it checked by a GP, as early detection of cancer improves the chances of successful treatment."
+        },
+        {
+            "q": "What will happen during a GP appointment for blood in urine?",
+            "i": "<noinput>",
+            "a": "During a GP appointment for blood in urine, the doctor will ask about your symptoms and may perform a rectal examination if necessary. They may also request a urine sample or arrange a blood test to help with diagnosis."
+        },
+        {
+            "q": "Can medications or diet affect the color of urine?",
+            "i": "<noinput>",
+            "a": "Yes, certain medications and foods can affect the color of urine. For example, eating beetroot can turn urine pink, and some medications can turn urine red or brown. If you suspect blood in urine, it's best to consult a GP for a proper evaluation."
+        },
+        {
+            "q": "Who is more prone to experience blood in urine?",
+            "i": "<noinput>",
+            "a": "While blood in urine can occur in anyone, older men and individuals with an enlarged prostate are more prone to experience this symptom. If you're facing difficulty urinating or have other concerns, it's advisable to consult a GP."
+        },
+        {
+            "q": "Can blood in urine happen during menstruation?",
+            "i": "<noinput>",
+            "a": "Yes, blood in urine can occur during menstruation. However, it's important to make sure it's not bleeding from the vagina. If you're unsure about the source of blood, consulting a GP is recommended."
+        },
+        {
+            "q": "Where can I find more information about blood in urine?",
+            "i": "<noinput>",
+            "a": "You can find more information about blood in urine on the British Association of Urological Surgeons (BAUS) website."
+        }
+    ]
+}

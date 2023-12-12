@@ -1,0 +1,18 @@
+[
+    {
+        "q": "What are the first signs of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "The first signs of hand, foot and mouth disease can be sore throat, high temperature, and not wanting to eat."
+    },
+    {
+        "q": "What symptoms can occur in the second stage of hand, foot and mouth disease?",
+        "i": "<noinput>",
+        "a": "In the second stage, mouth ulcers and a raised rash of spots on the hands and feet may occur."
+    },
+    {
+        "q": "How can hand, foot and mouth disease spots look?",
+        "i": "<noinput>",
+        "a": "The spots can look pink, red, or darker than the surrounding skin, depending on the person's skin tone."
+    },
+    {
+        "q": "Can hand, foot and mouth disease cause blisters?",

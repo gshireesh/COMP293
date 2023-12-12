@@ -1,0 +1,28 @@
+[
+    {
+        "q": "What should you do if you've been stung by a sea creature?",
+        "i": "I've been swimming in the sea and got stung by a jellyfish.",
+        "a": "If you've been stung by a sea creature, rinse the affected area with seawater, remove any spines, soak the area in warm water, and take painkillers like paracetamol or ibuprofen."
+    },
+    {
+        "q": "What are the symptoms of sea creature stings?",
+        "i": "<noinput>",
+        "a": "The symptoms of sea creature stings include intense pain at the sting site, an itchy rash, and raised circular areas on the skin in the case of jellyfish and Portuguese man-of-war stings."
+    },
+    {
+        "q": "How can you avoid being stung by sea creatures?",
+        "i": "<noinput>",
+        "a": "To avoid being stung by sea creatures, look out for beach warning signs, consider wearing a wetsuit when swimming, wear waterproof shoes or sandals in shallow water or rocky areas, and scuff or stamp your feet to make sea creatures aware of your presence."
+    },
+    {
+        "q": "Which sea creatures in the UK can sting?",
+        "i": "<noinput>",
+        "a": "Some of the sea creatures in the UK that can sting are jellyfish, Portuguese man-of-war, weever fish, sea urchins, and stingrays."
+    },
+    {
+        "q": "What to do if you have severe pain after a sting?",
+        "i": "I've been stung and the pain is severe and not going away.",
+        "a": "If you have severe pain after a sting that is not going away, it is advised to go to a minor injuries unit for non-urgent advice."
+    },
+    {
+        "q": "What should you do if you've been

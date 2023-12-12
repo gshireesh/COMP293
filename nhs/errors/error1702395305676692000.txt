@@ -1,0 +1,52 @@
+[
+{
+"q": "What are decongestants?",
+"i": "<noinput>",
+"a": "Decongestants are a type of medicine that can provide short-term relief for a blocked or stuffy nose by reducing the swelling of the blood vessels in the nose, helping to open the airways."
+},
+{
+"q": "What are the different types of decongestants available?",
+"i": "<noinput>",
+"a": "Decongestants are available as nasal sprays, drops, tablets or capsules, liquids or syrups, and flavored powders to dissolve in hot water. Some products may contain decongestants, painkillers, or antihistamines."
+},
+{
+"q": "Who can safely take decongestants?",
+"i": "<noinput>",
+"a": "Most people can use decongestants safely, but it's important for people taking other medicines, with diabetes, high blood pressure, an overactive thyroid gland, an enlarged prostate, liver, kidney, heart or circulation problems, or increased pressure in the eye (glaucoma) to seek advice from a pharmacist or GP."
+},
+{
+"q": "Can children take decongestants?",
+"i": "<noinput>",
+"a": "Decongestants should not be given to children under 6 years of age. Children aged 6 to 11 should take them for no longer than 5 days. It's best to ask a pharmacist for advice."
+},
+{
+"q": "Are decongestants safe for pregnant and breastfeeding women?",
+"i": "<noinput>",
+"a": "It's not clear if it's safe to take any type of decongestant during pregnancy. Pregnant women should only use them if told to by a healthcare professional. Decongestants that come as nose sprays or drops may be safe for breastfeeding women, but it's important to check with a pharmacist or GP first."
+},
+{
+"q": "How should decongestants be used?",
+"i": "<noinput>",
+"a": "Most decongestants should only be used between 1 and 4 times a day. It's important to check the patient information leaflet for specific instructions. If unsure, ask a pharmacist for advice. Decongestant nasal sprays and drops should not be used for more than a week at a time."
+},
+{
+"q": "What are the possible side effects of decongestants?",
+"i": "<noinput>",
+"a": "Decongestant medicines usually have mild side effects, such as feeling sleepy, irritation of the nose lining, headaches, nausea, dry mouth, restlessness, or a rash. These side effects should go away once you stop taking the medicine."
+},
+{
+"q": "Can decongestants be taken with other medicines?",
+"i": "<noinput>",
+"a": "It's important to ask a pharmacist or GP before taking decongestants if you're taking other medicines. Decongestants can interact with other medicines, such as antidepressants, causing a dangerous rise in blood pressure."
+},
+{
+"q": "Are there any serious side effects of decongestants?",
+"i": "<noinput>",
+"a": "While serious side effects such as hallucinations and severe allergic reactions are very rare, it's important to seek medical help if you experience these symptoms while taking decongestants."
+},
+{
+"q": "Can "all-in-1" decongestant remedies be taken with other medicines?",
+"i": "<noinput>",
+"a": "It's important to be cautious when taking other medicines with "all-in-1" decongestant remedies, as they may already contain painkillers or antihistamines. Taking extra doses of these medicines at the same time could be dangerous."
+}
+]

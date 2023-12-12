@@ -1,0 +1,20 @@
+[
+{
+"q": "What is an amputation and why is it needed?",
+"i": "<noinput>",
+"a": "An amputation is the surgical removal of part of the body, such as an arm or leg. It may be needed for various reasons, including severe infection, gangrene, complications from diabetes, trauma, or limited movement and function in the limb."
+},
+{
+"q": "What is involved in the assessment before amputation surgery?",
+"i": "<noinput>",
+"a": "Before amputation surgery, a thorough medical examination will be done to assess your physical condition. This includes checking your cardiovascular and respiratory systems. A psychological assessment may also be conducted, as well as evaluating your home, work, and social environments."
+},
+{
+"q": "How are amputations performed?",
+"i": "<noinput>",
+"a": "Amputations can be done under general anesthesia or with an epidural or spinal anesthesia. Most amputations involve removing a section of the limb rather than the entire limb. Techniques are used to improve the function of the remaining part of the limb."
+},
+{
+"q": "What should be done for recovery after an amputation surgery?",
+"i": "<noinput>",
+"a": "After surgery, you may receive oxygen and fluids for a few days while recovering. Pain

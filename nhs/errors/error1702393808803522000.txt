@@ -1,0 +1,52 @@
+[
+    {
+        "q": "What is the main aim of plastic surgery?",
+        "i": "<noinput>",
+        "a": "The main aim of plastic surgery is to restore the function and appearance of tissue and skin so it's as close to normal as possible."
+    },
+    {
+        "q": "What is the difference between plastic surgery and cosmetic surgery?",
+        "i": "<noinput>",
+        "a": "Plastic surgery is used to repair and reconstruct missing or damaged tissue and skin, while cosmetic surgery is surgery carried out solely to change a person's appearance to achieve a more desirable look."
+    },
+    {
+        "q": "What are some conditions that plastic surgery can be used to repair?",
+        "i": "<noinput>",
+        "a": "Plastic surgery can be used to repair abnormalities that have existed from birth, such as a cleft lip and palate, webbed fingers, and birthmarks, as well as areas damaged by the removal of cancerous tissue or extensive burns and serious injuries."
+    },
+    {
+        "q": "Is plastic surgery available for free?",
+        "i": "<noinput>",
+        "a": "Reconstructive plastic surgery is usually carried out free of charge by the NHS, but availability varies around the country and is determined by local integrated care boards (ICBs)."
+    },
+    {
+        "q": "How can I check if a surgeon belongs to BAPRAS?",
+        "i": "<noinput>",
+        "a": "You can check whether a particular surgeon belongs to the British Association of Plastic Reconstructive and Aesthetic Surgeons (BAPRAS) by contacting the association or visiting their website."
+    }
+    {
+        "q": "What are some techniques used in plastic surgery?",
+        "i": "<noinput>",
+        "a": "Some techniques used in plastic surgery are skin grafts, skin flap surgery, tissue expansion, fat transfer or grafting, vacuum closure, camouflage make-up or cream, and prosthetic devices."
+    },
+    {
+        "q": "What are the risks of plastic surgery?",
+        "i": "<noinput>",
+        "a": "Like any surgery, plastic surgery has associated risks, including pain, discomfort, bleeding, infection, scarring. If you have concerns after surgery, such as unexpected pain, swelling, or discharge, contact your surgeon, healthcare team, or GP immediately."
+    },
+    {
+        "q": "What is tissue expansion in plastic surgery?",
+        "i": "<noinput>",
+        "a": "Tissue expansion is a technique used in plastic surgery where surrounding tissue is stretched to enable the body to 'grow' extra skin, which can then be used to help reconstruct the nearby area."
+    },
+    {
+        "q": "What is vacuum closure in plastic surgery?",
+        "i": "<noinput>",
+        "a": "Vacuum closure is a technique used in plastic surgery where suction is applied to a wound through a sterile piece of foam or gauze to draw out fluid and encourage healing."
+    },
+    {
+        "q": "Can plastic surgery help improve a person's self-esteem and confidence?",
+        "i": "<noinput>",
+        "a": "Yes, plastic surgery can often help improve a person's self-esteem, confidence, and overall quality of life."
+    }
+]

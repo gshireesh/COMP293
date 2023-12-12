@@ -1,0 +1,24 @@
+[
+    {
+        "q": "What should you do if someone is injured?",
+        "i": "If someone is injured, you should first check that you and the injured person aren't in any danger.",
+        "a": "If someone is injured, you should first check that you and the injured person aren't in any danger."
+    },
+    {
+        "q": "How should you handle someone who is unconscious and breathing?",
+        "i": "If someone is unconscious but breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives.",
+        "a": "If someone is unconscious but breathing, and has no other injuries that would stop them being moved, place them in the recovery position until help arrives."
+    },
+    {
+        "q": "What should you do if someone is not breathing normally?",
+        "i": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away.",
+        "a": "If someone is not breathing normally, call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+    },
+    {
+        "q": "How should you handle a person who is bleeding heavily?",
+        "i": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock.",
+        "a": "If someone is bleeding heavily, the main aim is to prevent further blood loss and minimize the effects of shock."
+    },
+    {
+        "q": "What should you do for a burn or scald?",
+        "i": "If

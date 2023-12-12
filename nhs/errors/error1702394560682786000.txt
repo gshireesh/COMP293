@@ -1,0 +1,15 @@
+[
+    {
+        "q": "How long does it usually take for hand, foot and mouth disease to get better?",
+        "i": "<noinput>",
+        "a": "Hand, foot and mouth disease usually gets better on its own in 7 to 10 days."
+    },
+    {
+        "q": "What are the symptoms of hand, foot and mouth disease in adults and children?",
+        "i": "<noinput>",
+        "a": "The symptoms of hand, foot and mouth disease usually include a sore throat, high temperature, not wanting to eat, mouth ulcers, and a rash of spots on the hands, feet, thighs, and bottom."
+    },
+    {
+        "q": "What do hand, foot and mouth disease spots look like?",
+        "i": "<noinput>",
+        "a": "The spots can look pink, red, or darker than the surrounding skin, depending on the person's skin

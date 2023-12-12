@@ -1,0 +1,14 @@
+[
+  {
+    "q": "What are the first signs of hand, foot and mouth disease?",
+    "i": "<noinput>",
+    "a": "The first signs of hand, foot and mouth disease can include a sore throat, a high temperature, and loss of appetite."
+  },
+  {
+    "q": "What are the symptoms of hand, foot and mouth disease in adults?",
+    "i": "<noinput>",
+    "a": "The symptoms of hand, foot and mouth disease are usually the same in adults as in children. However, they can be worse in babies and children under 5 years old."
+  },
+  {
+    "q": "How can I treat hand, foot and mouth disease at home?",
+    "i": "To help with the symptoms of hand, foot and mouth disease, you can drink fluids to prevent dehydration, avoid acidic drinks, eat soft foods like yogurt, and take paracetamol

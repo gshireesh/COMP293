@@ -1,0 +1,29 @@
+[
+  {
+    "q": "What should you do if someone is unconscious and not breathing?",
+    "i": "If someone is unconscious and not breathing",
+    "a": "Call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+  },
+  {
+    "q": "How should you treat a severe allergic reaction?",
+    "i": "Anaphylaxis (or anaphylactic shock) is a severe allergic reaction",
+    "a": "Call 999 immediately and check if the person is carrying any medication. Help them administer it or give it to them yourself."
+  },
+  {
+    "q": "What should you do if someone is bleeding heavily?",
+    "i": "If someone is bleeding heavily",
+    "a": "Dial 999 for an ambulance, apply pressure to the wound, and bandage it firmly. Seek medical help."
+  },
+  {
+    "q": "How should you treat a burn or scald?",
+    "i": "If someone has a burn or scald",
+    "a": "Cool the burn with cool running water, remove clothing or jewelry, and seek medical help if needed."
+  },
+  {
+    "q": "What should you do in case of a choking emergency?",
+    "i": "The following information is for choking in adults.",
+    "a": "Encourage the person to cough, perform back blows and abdominal thrusts if necessary, and call 999 if the airway is still blocked."
+  },
+  {
+    "q": "What should you do if someone is drowning?",
+    "i": "If someone is

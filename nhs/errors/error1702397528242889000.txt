@@ -1,0 +1,52 @@
+[
+    {
+        "q": "What are the symptoms of croup?",
+        "i": "<noinput>",
+        "a": "Symptoms of croup include a barking cough, hoarse voice, difficulty breathing, and a high-pitched, rasping sound when breathing in. Children with croup usually have cold-like symptoms initially."
+    },
+    {
+        "q": "What are the possible causes of a runny nose, sneezing, cough, and temperature?",
+        "i": "<noinput>",
+        "a": "The possible cause of these symptoms is a cold."
+    },
+    {
+        "q": "What are the possible causes of cold-like symptoms with wheezing, rapid breathing, and not feeding?",
+        "i": "<noinput>",
+        "a": "The possible cause of these symptoms is bronchiolitis."
+    },
+    {
+        "q": "What are the possible causes of cold-like symptoms with bouts of coughing and a "whooping" sound when breathing in?",
+        "i": "<noinput>",
+        "a": "The possible cause of these symptoms is whooping cough."
+    },
+    {
+        "q": "What should I do if I think my child has croup?",
+        "i": "<noinput>",
+        "a": "If you think your child has croup, it's important to call NHS 111 for advice and potentially seek treatment."
+    },
+    {
+        "q": "How can I look after a child with croup at home?",
+        "i": "<noinput>",
+        "a": "To look after a child with croup at home, you should sit them upright, comfort them, give them plenty of fluids, and administer paracetamol or ibuprofen if needed. Avoid putting them in a steamy room or inhalation of steam."
+    },
+    {
+        "q": "When should I call 999 or go to A&E for my child with croup?",
+        "i": "<noinput>",
+        "a": "You should call 999 or go to A&E if your child is struggling to breathe, has blue or pale skin, is sleepier than normal, or is unwell and drooling excessively."
+    },
+    {
+        "q": "What should I do if my child's croup is not getting better after seeing a GP?",
+        "i": "<noinput>",
+        "a": "If your child's croup is not improving after seeing a GP, it's advisable to ask for an urgent GP appointment or call NHS 111 for further guidance."
+    },
+    {
+        "q": "Can croup be treated with medicine?",
+        "i": "<noinput>",
+        "a": "In some cases, a doctor may prescribe medicine to shorten the duration of the illness caused by croup."
+    },
+    {
+        "q": "When does croup usually get better?",
+        "i": "<noinput>",
+        "a": "Croup usually improves on its own within 48 hours."
+    }
+]

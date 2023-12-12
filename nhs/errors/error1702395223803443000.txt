@@ -1,0 +1,26 @@
+[
+  {
+    "q": "What should you do if someone is injured?",
+    "i": "If someone is injured, you should check if you and the injured person are in any danger.",
+    "a": "If someone is injured, you should first check if you and the injured person are in any danger."
+  },
+  {
+    "q": "What should you do if someone is unconscious but breathing?",
+    "i": "If someone is unconscious but breathing, place them in the recovery position until help arrives.",
+    "a": "If someone is unconscious but breathing, you should place them in the recovery position until help arrives."
+  },
+  {
+    "q": "If someone is not breathing normally, what should you do?",
+    "i": "If someone is not breathing normally, call 999 and start CPR straight away.",
+    "a": "If someone is not breathing normally, you should call 999 and start CPR straight away."
+  },
+  {
+    "q": "What should you do to stop someone from bleeding heavily?",
+    "i": "If someone is bleeding heavily, apply and maintain pressure to the wound with a clean pad or dressing.",
+    "a": "If someone is bleeding heavily, you should apply and maintain pressure to the wound with a clean pad or dressing."
+  },
+  {
+    "q": "How should you cool a burn or scald?",
+    "i": "To cool a burn or scald, use cool running water for at least 20 minutes.",
+    "a": "To cool a burn or scald, you should use cool running water for at least 20 minutes."
+ 

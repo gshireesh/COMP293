@@ -1,0 +1,25 @@
+[
+    {
+        "q": "What should you do if someone is injured?",
+        "i": "If someone gets cut while cooking, what should you do? (Example input)",
+        "a": "First, make sure you and the injured person are not in any danger. If safe, dial 999 for an ambulance. Carry out basic first aid."
+    },
+    {
+        "q": "What should you do if someone is unconscious and breathing?",
+        "i": "If someone faints and is breathing, what should you do?",
+        "a": "If someone is unconscious but breathing and has no other injuries, place them in the recovery position until help arrives and keep them under observation."
+    },
+    {
+        "q": "What should you do if someone is unconscious and not breathing?",
+        "i": "If someone collapses and is not breathing, what should you do?",
+        "a": "If someone is not breathing, call 999 and start cardiopulmonary resuscitation (CPR) immediately."
+    },
+    {
+        "q": "What should you do if someone is bleeding heavily?",
+        "i": "If someone cuts their hand and is bleeding heavily, what should you do?",
+        "a": "First, dial 999 for an ambulance. Then, apply and maintain pressure to the wound with a clean pad or dressing until the bleeding stops."
+    },
+    {
+        "q": "What should you do if someone has a burn or scald?",
+        "i": "If someone accidentally touches a hot pan and gets burned, what should you do?",
+        "a": "Cool the burn with cool running

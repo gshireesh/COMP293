@@ -1,0 +1,30 @@
+[
+  {
+    "q": "What should I do if someone is unconscious and not breathing?",
+    "i": "If someone is unconscious and not breathing",
+    "a": "Call 999 and start cardiopulmonary resuscitation (CPR) straight away."
+  },
+  {
+    "q": "How do I treat a chemical burn?",
+    "i": "For chemical burns",
+    "a": "Wear protective gloves, remove any affected clothing, and rinse the burn with cool running water for at least 20 minutes."
+  },
+  {
+    "q": "What should I do if someone is choking?",
+    "i": "If someone is choking",
+    "a": "Encourage the person to cough and try to clear the blockage. If the choking is severe, perform back blows or abdominal thrusts."
+  },
+  {
+    "q": "What to do if someone is drowning?",
+    "i": "If someone is in difficulty in water",
+    "a": "Do not enter the water unless it's safe. Once on land, check if they're breathing and call 999 for medical help."
+  },
+  {
+    "q": "What should I do if someone has had an electric shock?",
+    "i": "If someone has had an electric shock",
+    "a": "Switch off the electrical current if possible, and if they're not breathing, dial 999 for an ambulance."
+  },
+  {
+    "q": "How do I treat a fracture?",
+    "i": "If a person has a broken bone or joint",
+    "a": "Keep the fracture as still as

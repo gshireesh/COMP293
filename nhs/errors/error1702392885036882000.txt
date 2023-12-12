@@ -1,0 +1,20 @@
+{
+    "q" : "How can I find hospitals that can carry out a specific surgical procedure?",
+    "i" : "find hospitals by surgical procedures",
+    "a" : "To find hospitals that can carry out a specific surgical procedure, you can use the NHS website. Enter your postcode and the name of your operation or select it from the surgical procedures A-Z. You'll be taken to a page listing the hospitals that can perform the operation."
+},
+{
+    "q" : "What information can I compare when choosing a hospital for my surgery?",
+    "i" : "find hospitals by surgical procedures",
+    "a" : "When choosing a hospital for your surgery, you can compare hospitals based on things such as CQC inspection ratings, safety, and facilities. The NHS website allows you to select your hospital and compare it with others using columns and a drop-down menu."
+},
+{
+    "q" : "What should I do before deciding which hospital to be referred to for my operation?",
+    "i" : "<noinput>",
+    "a" : "Before deciding which hospital to be referred to for your operation, you should gather information about NHS hospital services and learn about choosing a hospital. This will help you make an informed decision and ensure you are referred to the right place."
+},
+{
+    "q" : "What is the next step after choosing a hospital for surgery?",
+    "i" : "<noinput>",
+    "a" : "After choosing a hospital for surgery, in most cases, your GP will refer you to see a specialist at the selected hospital. This specialist will further guide you through the process and discuss your specific needs and concerns."
+}

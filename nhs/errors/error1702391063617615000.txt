@@ -1,0 +1,45 @@
+[
+    {
+        "q": "Why does a macular hole happen?",
+        "i": "<noinput>",
+        "a": "The cause of macular holes is unknown, although it is more common in older individuals and women. In some cases, it may be associated with conditions like retinal detachment or severe eye injury."
+    },
+    {
+        "q": "What should I do if I have blurred or distorted vision?",
+        "i": "<noinput>",
+        "a": "If you experience blurred or distorted vision, or notice a black spot in the centre of your vision, it is recommended to visit your GP or optician as soon as possible. They will likely refer you to an ophthalmologist for further evaluation and treatment."
+    },
+    {
+        "q": "What are the treatment options for a macular hole?",
+        "i": "<noinput>",
+        "a": "The main treatment for a macular hole is surgery, specifically a procedure called vitrectomy. Another option is an injection of ocriplasmin, which helps close the hole. Both treatments have their success rates and risks, which your ophthalmologist can discuss with you."
+    },
+    {
+        "q": "What does vitrectomy surgery involve?",
+        "i": "<noinput>",
+        "a": "Vitrectomy surgery for a macular hole involves removing the vitreous jelly in the eye and peeling off the delicate layer around the hole called the inner limiting membrane. A temporary gas bubble is then placed in the eye to help seal the hole."
+    },
+    {
+        "q": "What can I expect after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "After the surgery, you may experience temporary poor vision due to the gas bubble placed in the eye. You may also have mild pain or discomfort. It generally takes 6 to 8 weeks for the gas bubble to be absorbed and vision to improve."
+    },
+    {
+        "q": "Do I need to position myself face down after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "In some cases, you may be instructed to spend several hours a day in a face-down position to keep the gas bubble in contact with the macular hole. Your doctor will let you know if this is necessary and for how long."
+    },
+    {
+        "q": "Am I able to travel after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "You should avoid flying or traveling to high altitudes while the gas bubble is still in your eye, as it can cause high pressure and potentially result in vision loss. It is important to follow your doctor's advice on travel restrictions."
+    },
+    {
+        "q": "Can I drive after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "You will likely be unable to drive for 6 to 8 weeks after the surgery while the gas bubble is present in your eye. Consult with your specialist for specific guidelines regarding driving."
+    },
+    {
+        "q": "How much time will I need off work after macular hole surgery?",
+        "i": "<noinput>",
+        "a": "The amount of time you will need off work depends on various factors such as the type of work you do and the speed of your recovery. It is best to discuss this with your surgeon for

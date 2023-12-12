@@ -1,0 +1,20 @@
+[
+    {
+        "q": "What should you do if someone is unconscious and breathing?",
+        "i": "<noinput>",
+        "a": "If someone is unconscious and breathing, place them in the recovery position until help arrives and keep them under observation to ensure they continue to breathe normally."
+    },
+    {
+        "q": "How should you treat someone who is bleeding heavily?",
+        "i": "If someone is bleeding heavily, use disposable gloves if available, check for embedded objects, apply pressure to the wound with a clean pad or dressing, and bandage it firmly.",
+        "a": "If bleeding continues, apply additional pressure and seek medical help. If a body part is severed, place it in a plastic bag, wrap it in cling film, and keep it on ice."
+    },
+    {
+        "q": "What should you do for a burn or scald?",
+        "i": "If someone has a burn or scald, cool the burn with cool running water for at least 20 minutes, remove any clothing or jewelry before swelling begins, and cover the burn loosely with cling film or a clean dressing.",
+        "a": "Do not apply creams, lotions, or sprays to the burn. Seek medical help if needed or if unsure about the severity of the burn."
+    },
+    {
+        "q": "How should you respond to choking in adults?",
+        "i": "If someone is choking and can speak or cough, encourage them to cough and spit out the object. If choking is severe and the person cannot breathe, perform back blows and abdominal thrusts.",
+        "a": "If the person's air

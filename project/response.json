@@ -1,0 +1,94 @@
+{
+  "Name": "**",
+  "Title": "Sr Software Engineer",
+  "Phone_no": "**",
+  "Email": "**",
+  "Linked_in": "**",
+  "Github": "**",
+  "Place": "San Francisco, CA",
+  "Environments": {"0": "linux", "1": "windows"},
+  "Fontend": {
+    "0": "React",
+    "1": "Angular",
+    "2": "Javascript",
+    "3": "Typescript",
+    "4": "D3"
+  },
+  "Backend": {
+    "0": "Python",
+    "1": "Java",
+    "2": "Nodejs",
+    "3": "SQL",
+    "4": "Django",
+    "5": "Express",
+    "6": "GraphQl",
+    "7": "Redis",
+    "8": "RabbitMq",
+    "9": "Kafka"
+  },
+  "Cloud_and_automation": {
+    "0": "AWS",
+    "1": "Docker",
+    "2": "Kubernetes",
+    "3": "Azure",
+    "4": "GCP",
+    "5": "Terraform",
+    "6": "Linux",
+    "7": "Ansible",
+    "8": "Jenkins"
+  },
+  "About": "As a Senior Software Engineer with over 9 years of experience, I bring a rich expertise in both frontend and backend development, cloud solutions, and automation. My technical skills span a wide array of technologies including Python, JavaScript, Nodejs, and Java, complemented by frontend frameworks like React and Angular. In cloud and automation, I'm proficient in AWS, Azure, GCP, Docker, and Kubernetes, enabling me to efficiently deploy and manage scalable applications. My career has seen me thriving in diverse environments, from Linux to Windows, always adapting and excelling. With a strong educational background in Computer Science, I continue to be driven by the challenges and opportunities in software engineering, aiming to leverage my skills to create impactful solutions.",
+  "Education": {
+    "0": {
+      "degree": "Master of Science",
+      "department": "Computer Science",
+      "institution": "University of the pacific",
+      "location": "**"
+    },
+    "1": {
+      "degree": "Bachelor of Technology",
+      "department": "Computer Science and Engineering",
+      "institution": "National Institute of Technology",
+      "location": "**"
+    },
+    "2": {
+      "degree": "Secondary School",
+      "institution": "St Ann's School",
+      "location": "**"
+    }
+  },
+  "Interests": {
+    "0": "Family",
+    "1": "Math",
+    "2": "Thought experiments",
+    "3": "chess",
+    "4": "travelling",
+    "5": "movies"
+  },
+  "Experiences": {
+    "0": {
+      "company": "6Sense Insights",
+      "from": "Nov 21",
+      "to": "Aug 22",
+      "role": "Senior Software Engineer"
+    },
+    "1": {
+      "company": "Udaan",
+      "from": "Jun 19",
+      "to": "Aug 22",
+      "role": "Product Engineer"
+    },
+    "2": {
+      "company": "StartupByte",
+      "from": "Sep 16",
+      "to": "May 19",
+      "role": "Lead Full Stack Engineer"
+    },
+    "3": {
+      "company": "Factset Research Systems",
+      "from": "Jun 14",
+      "to": "Aug 16",
+      "role": "software engineer"
+    }
+  }
+}

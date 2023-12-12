@@ -1,0 +1,30 @@
+[
+    {
+        "q": "What should you do if you've been stung by a sea creature?",
+        "i": "I have been stung by a jellyfish while swimming in the sea.",
+        "a": "If you've been stung by a sea creature, rinse the affected area with seawater, remove any spines, soak in warm water, and take painkillers."
+    },
+    {
+        "q": "What are the symptoms of sea creature stings?",
+        "i": "<noinput>",
+        "a": "The main symptoms of sea creature stings are intense pain and an itchy rash. Some stings may also cause raised circular areas on the skin."
+    },
+    {
+        "q": "How can you avoid being stung by sea creatures?",
+        "i": "<noinput>",
+        "a": "To avoid being stung, look out for beach warning signs, consider wearing a wetsuit, and scuff or stamp your feet when walking in shallow water."
+    },
+    {
+        "q": "Which sea creatures in the UK can sting?",
+        "i": "<noinput>",
+        "a": "Some sea creatures in the UK that can sting include jellyfish, Portuguese man-of-war, weever fish, sea urchins, and stingrays."
+    },
+    {
+        "q": "Where can you find a lifeguard or someone with first aid training at the beach?",
+        "i": "<noinput>",
+        "a": "You can find a lifeguard or someone with first aid training at the beach. They can help you if you've been stung by a sea creature."
+    },
+    {
+        "q": "When should you go to a minor injuries unit after being stung?",
+        "i": "I have severe pain that is not going away after being stung.",
+        "a": "If you have severe pain that is not going away after being stung, you should go to a minor

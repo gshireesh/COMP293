@@ -1,0 +1,50 @@
+{
+    "q": "What are the main symptoms of Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "The main symptoms of Morton's neuroma include shooting, stabbing or burning pain, feeling like a pebble or lump is stuck under your foot, and tingling or numbness in the foot. The symptoms may worsen with foot movement or wearing tight or high-heeled shoes."
+},
+{
+    "q": "How can I ease the pain of Morton's neuroma myself?",
+    "i": "<noinput>",
+    "a": "You can try resting and raising your foot, applying ice pack for 20 minutes every few hours, taking ibuprofen or paracetamol, wearing wide and comfortable shoes, using soft insoles or pads, losing weight if overweight, and avoiding impact activities. Avoid wearing tight, pointy shoes, high heels, or shoes with thin soles."
+},
+{
+    "q": "When should I see a GP for Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "You should see a GP if the pain is severe, interfering with your normal activities, getting worse or recurring, not improving after self-treatment for 2 weeks, experiencing tingling or numbness in the foot, or if you have diabetes."
+},
+{
+    "q": "What treatments are available for Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "A GP can examine your foot and may refer you to a foot specialist. Treatment options from a foot specialist may include specially made soft pads or insoles, non-surgical treatments such as radiofrequency ablation, steroid or alcohol injections, or foot surgery in severe cases."
+},
+{
+    "q": "Are there any causes or risk factors for Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "Morton's neuroma is often caused by wearing tight, pointy or high-heeled shoes, participating in high-impact sports or activities that apply pressure on the feet, and having other foot problems like flat feet, high arches, bunions, or hammer toes."
+},
+{
+    "q": "What is the role of a foot specialist in treating Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "A foot specialist, such as a podiatrist or foot and ankle surgeon, can provide treatments like soft pads or insoles, non-surgical options like radiofrequency ablation, and may consider steroid or alcohol injections or foot surgery if other treatments are not effective."
+},
+{
+    "q": "Is referral to a podiatrist covered by the NHS?",
+    "i": "<noinput>",
+    "a": "Referral to a podiatrist on the NHS may not be available to everyone and waiting times can be long. Private consultations with a podiatrist are also an option."
+},
+{
+    "q": "What are the symptoms of severe pain in Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "Severe pain in Morton's neuroma is characterized by constant and intense pain that hinders thinking, talking, sleeping, movement, daily activities, and self-care."
+},
+{
+    "q": "How is an irritated or damaged nerve caused in Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "Morton's neuroma occurs when the nerve between the toe bones becomes irritated or damaged. This can happen from wearing tight, pointy or high-heeled shoes, engaging in high-impact activities, or having other foot problems."
+},
+{
+    "q": "Are there any non-surgical treatments available for Morton's neuroma?",
+    "i": "<noinput>",
+    "a": "Yes, non-surgical treatments for Morton's neuroma include specially made soft pads or insoles, radiofrequency ablation, and steroid or alcohol injections. These options are considered before foot surgery is considered."
+}
